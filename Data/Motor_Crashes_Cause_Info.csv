@@ -1,0 +1,4143 @@
+Case Num,Contributing Factor Class,Contributing Factor Description
+38219,HUMAN,Fell Asleep
+38220,HUMAN,Not Applicable
+38221,HUMAN,Not Applicable
+38222,HUMAN,Unsafe Lane Changing
+38223,HUMAN,Driver Inattention/Distraction*
+38224,HUMAN,Driver Inattention/Distraction*
+38225,HUMAN,Driver Inattention/Distraction*
+38226,VEHICLE,Driverless/Runaway Vehicle
+38227,HUMAN,Failure to Yield Right-of-Way
+38228,HUMAN,Failure to Yield Right-of-Way
+38229,HUMAN,Failure to Yield Right-of-Way
+38230,HUMAN,Failure to Yield Right-of-Way
+38231,HUMAN,Failure to Yield Right-of-Way
+38232,HUMAN,Failure to Yield Right-of-Way
+38233,HUMAN,Failure to Yield Right-of-Way
+38234,HUMAN,Failure to Yield Right-of-Way
+38235,HUMAN,Failure to Yield Right-of-Way
+38236,HUMAN,Failure to Yield Right-of-Way
+38237,HUMAN,Failure to Yield Right-of-Way
+38238,HUMAN,Following Too Closely
+38239,HUMAN,Following Too Closely
+38240,HUMAN,Following Too Closely
+38241,HUMAN,Following Too Closely
+38242,ENVMT,Glare
+38243,ENVMT,Glare
+38244,HUMAN,Not Applicable
+38245,HUMAN,Not Applicable
+38246,HUMAN,Not Applicable
+38247,VEHICLE,Other*
+38248,HUMAN,Passing or Lane Usage Improper
+38249,HUMAN,Passing Too Closely
+38250,ENVMT,Pavement Slippery
+38251,ENVMT,Pavement Slippery
+38252,HUMAN,Unsafe Lane Changing
+38253,HUMAN,Unsafe Speed
+38254,ENVMT,View Obstructed/Limited
+38255,HUMAN,Aggressive Driving/Road Rage
+38256,ANIMAL,Animal's Action
+38257,HUMAN,Backing Unsafely
+38258,HUMAN,Driver Inattention/Distraction*
+38259,HUMAN,Driver Inattention/Distraction*
+38260,HUMAN,Driver Inattention/Distraction*
+38261,HUMAN,Driver Inattention/Distraction*
+38262,HUMAN,Failure to Keep Right
+38263,HUMAN,Failure to Keep Right
+38264,HUMAN,Following Too Closely
+38265,HUMAN,Following Too Closely
+38266,HUMAN,Following Too Closely
+38267,HUMAN,Following Too Closely
+38268,HUMAN,Following Too Closely
+38269,HUMAN,Not Applicable
+38270,ENVMT,Not Applicable
+38271,ENVMT,Obstruction/ Debris
+38272,HUMAN,Other Electronic Device*
+38273,VEHICLE,Other*
+38274,VEHICLE,Other*
+38275,HUMAN,Passing or Lane Usage Improper
+38276,HUMAN,Reaction to Other Uninvolved Vehicle
+38277,HUMAN,Traffic Control Device Disregarded
+38278,HUMAN,Turning Improperly
+38279,HUMAN,Unsafe Lane Changing
+38280,HUMAN,Unsafe Speed
+38281,HUMAN,Unsafe Speed
+38282,HUMAN,Passing Too Closely
+38283,HUMAN,Alcohol Involvement
+38284,ANIMAL,Animal's Action
+38285,ANIMAL,Animal's Action
+38286,HUMAN,Backing Unsafely
+38287,HUMAN,Backing Unsafely
+38288,HUMAN,Backing Unsafely
+38289,VEHICLE,Brakes Defective
+38290,HUMAN,Driver Inattention/Distraction*
+38291,HUMAN,Driver Inattention/Distraction*
+38292,HUMAN,Driver Inattention/Distraction*
+38293,HUMAN,Driver Inattention/Distraction*
+38294,HUMAN,Driver Inattention/Distraction*
+38295,HUMAN,Driver Inattention/Distraction*
+38296,HUMAN,Driver Inattention/Distraction*
+38297,HUMAN,Driver Inexperience*
+38298,HUMAN,Driver Inexperience*
+38299,HUMAN,Failure to Yield Right-of-Way
+38300,HUMAN,Failure to Yield Right-of-Way
+38301,HUMAN,Failure to Yield Right-of-Way
+38302,HUMAN,Failure to Yield Right-of-Way
+38303,HUMAN,Failure to Yield Right-of-Way
+38304,HUMAN,Failure to Yield Right-of-Way
+38305,HUMAN,Failure to Yield Right-of-Way
+38306,HUMAN,Failure to Yield Right-of-Way
+38307,HUMAN,Failure to Yield Right-of-Way
+38308,HUMAN,Failure to Yield Right-of-Way
+38309,HUMAN,Fatigued/Drowsy
+38310,HUMAN,Fell Asleep
+38311,HUMAN,Following Too Closely
+38312,HUMAN,Following Too Closely
+38313,HUMAN,Following Too Closely
+38314,HUMAN,Following Too Closely
+38315,HUMAN,Following Too Closely
+38316,HUMAN,Following Too Closely
+38317,HUMAN,Following Too Closely
+38318,HUMAN,Following Too Closely
+38319,HUMAN,Following Too Closely
+38320,HUMAN,Following Too Closely
+38321,HUMAN,Following Too Closely
+38322,HUMAN,Following Too Closely
+38323,HUMAN,Illness
+38324,HUMAN,Not Applicable
+38325,HUMAN,Not Applicable
+38326,HUMAN,Not Applicable
+38327,HUMAN,Not Applicable
+38328,HUMAN,Not Applicable
+38329,HUMAN,Not Applicable
+38330,HUMAN,Not Applicable
+38331,HUMAN,Not Applicable
+38332,HUMAN,Not Applicable
+38333,HUMAN,Not Applicable
+38334,HUMAN,Passing or Lane Usage Improper
+38335,HUMAN,Passing or Lane Usage Improper
+38336,ENVMT,Pavement Slippery
+38337,ENVMT,Pavement Slippery
+38338,ENVMT,Pavement Slippery
+38339,ENVMT,Pavement Slippery
+38340,ENVMT,Pavement Slippery
+38341,ENVMT,Pavement Slippery
+38342,VEHICLE,Tire Failure/Inadequate
+38343,HUMAN,Traffic Control Device Disregarded
+38344,HUMAN,Traffic Control Device Disregarded
+38345,HUMAN,Traffic Control Device Disregarded
+38346,HUMAN,Turning Improperly
+38347,HUMAN,Unsafe Lane Changing
+38348,HUMAN,Unsafe Lane Changing
+38349,HUMAN,Unsafe Lane Changing
+38350,HUMAN,Unsafe Lane Changing
+38351,HUMAN,Unsafe Speed
+38352,ENVMT,View Obstructed/Limited
+38353,ENVMT,View Obstructed/Limited
+38354,HUMAN,Driver Inattention/Distraction*
+38355,HUMAN,Driver Inattention/Distraction*
+38356,HUMAN,Failure to Keep Right
+38357,HUMAN,Following Too Closely
+38358,HUMAN,Following Too Closely
+38359,ENVMT,Pavement Slippery
+38360,HUMAN,Reaction to Other Uninvolved Vehicle
+38361,HUMAN,Alcohol Involvement
+38362,ANIMAL,Animal's Action
+38363,ANIMAL,Animal's Action
+38364,ANIMAL,Animal's Action
+38365,ANIMAL,Animal's Action
+38366,ANIMAL,Animal's Action
+38367,ANIMAL,Animal's Action
+38368,HUMAN,Driver Inattention/Distraction*
+38369,HUMAN,Driver Inattention/Distraction*
+38370,HUMAN,Driver Inattention/Distraction*
+38371,HUMAN,Driver Inattention/Distraction*
+38372,HUMAN,Driver Inattention/Distraction*
+38373,HUMAN,Driver Inattention/Distraction*
+38374,HUMAN,Driver Inattention/Distraction*
+38375,HUMAN,Driver Inattention/Distraction*
+38376,HUMAN,Driver Inattention/Distraction*
+38377,HUMAN,Driver Inexperience*
+38378,HUMAN,Failure to Yield Right-of-Way
+38379,HUMAN,Failure to Yield Right-of-Way
+38380,HUMAN,Failure to Yield Right-of-Way
+38381,HUMAN,Failure to Yield Right-of-Way
+38382,HUMAN,Failure to Yield Right-of-Way
+38383,HUMAN,Failure to Yield Right-of-Way
+38384,HUMAN,Failure to Yield Right-of-Way
+38385,HUMAN,Failure to Yield Right-of-Way
+38386,HUMAN,Failure to Yield Right-of-Way
+38387,HUMAN,Failure to Yield Right-of-Way
+38388,HUMAN,Failure to Yield Right-of-Way
+38389,HUMAN,Failure to Yield Right-of-Way
+38390,HUMAN,Fell Asleep
+38391,HUMAN,Following Too Closely
+38392,HUMAN,Following Too Closely
+38393,HUMAN,Following Too Closely
+38394,HUMAN,Following Too Closely
+38395,HUMAN,Following Too Closely
+38396,ENVMT,Glare
+38397,ENVMT,Glare
+38398,HUMAN,Not Applicable
+38399,HUMAN,Not Applicable
+38400,ENVMT,Not Applicable
+38401,ENVMT,Not Applicable
+38402,HUMAN,Not Applicable
+38403,HUMAN,Not Applicable
+38404,HUMAN,Not Applicable
+38405,ENVMT,Pavement Slippery
+38406,ENVMT,Pavement Slippery
+38407,ENVMT,Pavement Slippery
+38408,ENVMT,Pavement Slippery
+38409,HUMAN,Physical Disability
+38410,ENVMT,Traffic Control Device Improper/Non-Working
+38411,HUMAN,Turning Improperly
+38412,HUMAN,Unsafe Lane Changing
+38413,HUMAN,Unsafe Lane Changing
+38414,HUMAN,Unsafe Speed
+38415,ENVMT,View Obstructed/Limited
+38416,HUMAN,Failure to Yield Right-of-Way
+38417,ENVMT,Pavement Slippery
+38418,ANIMAL,Animal's Action
+38419,HUMAN,Backing Unsafely
+38420,HUMAN,Driver Inattention/Distraction*
+38421,HUMAN,Driver Inattention/Distraction*
+38422,HUMAN,Driver Inattention/Distraction*
+38423,HUMAN,Driver Inattention/Distraction*
+38424,HUMAN,Following Too Closely
+38425,HUMAN,Following Too Closely
+38426,HUMAN,Following Too Closely
+38427,HUMAN,Following Too Closely
+38428,ENVMT,Glare
+38429,HUMAN,Not Applicable
+38430,HUMAN,Not Applicable
+38431,HUMAN,Not Applicable
+38432,HUMAN,Not Applicable
+38433,HUMAN,Passing or Lane Usage Improper
+38434,HUMAN,Passing or Lane Usage Improper
+38435,ENVMT,Pavement Slippery
+38436,ENVMT,Pavement Slippery
+38437,ENVMT,Pavement Slippery
+38438,ENVMT,Pavement Slippery
+38439,HUMAN,Reaction to Other Uninvolved Vehicle
+38440,VEHICLE,Tire Failure/Inadequate
+38441,HUMAN,Traffic Control Device Disregarded
+38442,HUMAN,Traffic Control Device Disregarded
+38443,HUMAN,Traffic Control Device Disregarded
+38444,HUMAN,Traffic Control Device Disregarded
+38445,HUMAN,Turning Improperly
+38446,HUMAN,Turning Improperly
+38447,HUMAN,Turning Improperly
+38448,HUMAN,Unsafe Lane Changing
+38449,HUMAN,Unsafe Lane Changing
+38450,HUMAN,Unsafe Lane Changing
+38451,HUMAN,Unsafe Speed
+38452,HUMAN,Unsafe Speed
+38453,ENVMT,View Obstructed/Limited
+38454,ANIMAL,Animal's Action
+38455,ANIMAL,Animal's Action
+38456,ANIMAL,Animal's Action
+38457,ANIMAL,Animal's Action
+38458,ANIMAL,Animal's Action
+38459,HUMAN,Backing Unsafely
+38460,HUMAN,Backing Unsafely
+38461,HUMAN,Driver Inattention/Distraction*
+38462,HUMAN,Driver Inattention/Distraction*
+38463,HUMAN,Driver Inattention/Distraction*
+38464,HUMAN,Driver Inattention/Distraction*
+38465,HUMAN,Failure to Yield Right-of-Way
+38466,HUMAN,Failure to Yield Right-of-Way
+38467,HUMAN,Failure to Yield Right-of-Way
+38468,HUMAN,Failure to Yield Right-of-Way
+38469,HUMAN,Following Too Closely
+38470,HUMAN,Following Too Closely
+38471,HUMAN,Following Too Closely
+38472,HUMAN,Following Too Closely
+38473,HUMAN,Not Applicable
+38474,HUMAN,Not Applicable
+38475,HUMAN,Not Applicable
+38476,HUMAN,Not Applicable
+38477,VEHICLE,Other*
+38478,VEHICLE,Other*
+38479,HUMAN,Passing or Lane Usage Improper
+38480,HUMAN,Passing or Lane Usage Improper
+38481,ENVMT,Pavement Slippery
+38482,ENVMT,Pavement Slippery
+38483,ENVMT,Pavement Slippery
+38484,HUMAN,Reaction to Other Uninvolved Vehicle
+38485,HUMAN,Traffic Control Device Disregarded
+38486,HUMAN,Unsafe Lane Changing
+38487,HUMAN,Unsafe Lane Changing
+38488,HUMAN,Unsafe Lane Changing
+38489,HUMAN,Unsafe Speed
+38490,ENVMT,View Obstructed/Limited
+38491,ENVMT,View Obstructed/Limited
+38492,HUMAN,Aggressive Driving/Road Rage
+38493,HUMAN,Aggressive Driving/Road Rage
+38494,HUMAN,Alcohol Involvement
+38495,HUMAN,Alcohol Involvement
+38496,HUMAN,Alcohol Involvement
+38497,HUMAN,Alcohol Involvement
+38498,ANIMAL,Animal's Action
+38499,ANIMAL,Animal's Action
+38500,ANIMAL,Animal's Action
+38501,ANIMAL,Animal's Action
+38502,ANIMAL,Animal's Action
+38503,ANIMAL,Animal's Action
+38504,ANIMAL,Animal's Action
+38505,ANIMAL,Animal's Action
+38506,ANIMAL,Animal's Action
+38507,ANIMAL,Animal's Action
+38508,ANIMAL,Animal's Action
+38509,ANIMAL,Animal's Action
+38510,ANIMAL,Animal's Action
+38511,ANIMAL,Animal's Action
+38512,ANIMAL,Animal's Action
+38513,ANIMAL,Animal's Action
+38514,ANIMAL,Animal's Action
+38515,ANIMAL,Animal's Action
+38516,ANIMAL,Animal's Action
+38517,ANIMAL,Animal's Action
+38518,ANIMAL,Animal's Action
+38519,ANIMAL,Animal's Action
+38520,ANIMAL,Animal's Action
+38521,ANIMAL,Animal's Action
+38522,ANIMAL,Animal's Action
+38523,ANIMAL,Animal's Action
+38524,ANIMAL,Animal's Action
+38525,ANIMAL,Animal's Action
+38526,ANIMAL,Animal's Action
+38527,ANIMAL,Animal's Action
+38528,ANIMAL,Animal's Action
+38529,ANIMAL,Animal's Action
+38530,ANIMAL,Animal's Action
+38531,ANIMAL,Animal's Action
+38532,ANIMAL,Animal's Action
+38533,ANIMAL,Animal's Action
+38534,ANIMAL,Animal's Action
+38535,ANIMAL,Animal's Action
+38536,ANIMAL,Animal's Action
+38537,ANIMAL,Animal's Action
+38538,ANIMAL,Animal's Action
+38539,HUMAN,Backing Unsafely
+38540,HUMAN,Backing Unsafely
+38541,HUMAN,Backing Unsafely
+38542,HUMAN,Backing Unsafely
+38543,HUMAN,Backing Unsafely
+38544,HUMAN,Backing Unsafely
+38545,HUMAN,Backing Unsafely
+38546,HUMAN,Backing Unsafely
+38547,HUMAN,Backing Unsafely
+38548,HUMAN,Backing Unsafely
+38549,HUMAN,Backing Unsafely
+38550,VEHICLE,Brakes Defective
+38551,VEHICLE,Brakes Defective
+38552,HUMAN,Cell Phone (hand held)
+38553,HUMAN,Cell Phone (hand held)
+38554,HUMAN,Driver Inattention/Distraction*
+38555,HUMAN,Driver Inattention/Distraction*
+38556,HUMAN,Driver Inattention/Distraction*
+38557,HUMAN,Driver Inattention/Distraction*
+38558,HUMAN,Driver Inattention/Distraction*
+38559,HUMAN,Driver Inattention/Distraction*
+38560,HUMAN,Driver Inattention/Distraction*
+38561,HUMAN,Driver Inattention/Distraction*
+38562,HUMAN,Driver Inattention/Distraction*
+38563,HUMAN,Driver Inattention/Distraction*
+38564,HUMAN,Driver Inattention/Distraction*
+38565,HUMAN,Driver Inattention/Distraction*
+38566,HUMAN,Driver Inattention/Distraction*
+38567,HUMAN,Driver Inattention/Distraction*
+38568,HUMAN,Driver Inattention/Distraction*
+38569,HUMAN,Driver Inattention/Distraction*
+38570,HUMAN,Driver Inattention/Distraction*
+38571,HUMAN,Driver Inattention/Distraction*
+38572,HUMAN,Driver Inattention/Distraction*
+38573,HUMAN,Driver Inattention/Distraction*
+38574,HUMAN,Driver Inattention/Distraction*
+38575,HUMAN,Driver Inattention/Distraction*
+38576,HUMAN,Driver Inattention/Distraction*
+38577,HUMAN,Driver Inattention/Distraction*
+38578,HUMAN,Driver Inattention/Distraction*
+38579,HUMAN,Driver Inattention/Distraction*
+38580,HUMAN,Driver Inattention/Distraction*
+38581,HUMAN,Driver Inattention/Distraction*
+38582,HUMAN,Driver Inattention/Distraction*
+38583,HUMAN,Driver Inattention/Distraction*
+38584,HUMAN,Driver Inattention/Distraction*
+38585,HUMAN,Driver Inattention/Distraction*
+38586,HUMAN,Driver Inattention/Distraction*
+38587,HUMAN,Driver Inattention/Distraction*
+38588,HUMAN,Driver Inattention/Distraction*
+38589,HUMAN,Driver Inattention/Distraction*
+38590,HUMAN,Driver Inattention/Distraction*
+38591,HUMAN,Driver Inattention/Distraction*
+38592,HUMAN,Driver Inattention/Distraction*
+38593,HUMAN,Driver Inattention/Distraction*
+38594,HUMAN,Driver Inattention/Distraction*
+38595,HUMAN,Driver Inattention/Distraction*
+38596,HUMAN,Driver Inattention/Distraction*
+38597,HUMAN,Driver Inattention/Distraction*
+38598,HUMAN,Driver Inattention/Distraction*
+38599,HUMAN,Driver Inattention/Distraction*
+38600,HUMAN,Driver Inattention/Distraction*
+38601,HUMAN,Driver Inattention/Distraction*
+38602,HUMAN,Driver Inattention/Distraction*
+38603,HUMAN,Driver Inattention/Distraction*
+38604,HUMAN,Driver Inexperience*
+38605,HUMAN,Driver Inexperience*
+38606,HUMAN,Failure to Keep Right
+38607,HUMAN,Failure to Keep Right
+38608,HUMAN,Failure to Keep Right
+38609,HUMAN,Failure to Keep Right
+38610,HUMAN,Failure to Yield Right-of-Way
+38611,HUMAN,Failure to Yield Right-of-Way
+38612,HUMAN,Failure to Yield Right-of-Way
+38613,HUMAN,Failure to Yield Right-of-Way
+38614,HUMAN,Failure to Yield Right-of-Way
+38615,HUMAN,Failure to Yield Right-of-Way
+38616,HUMAN,Failure to Yield Right-of-Way
+38617,HUMAN,Failure to Yield Right-of-Way
+38618,HUMAN,Failure to Yield Right-of-Way
+38619,HUMAN,Failure to Yield Right-of-Way
+38620,HUMAN,Failure to Yield Right-of-Way
+38621,HUMAN,Failure to Yield Right-of-Way
+38622,HUMAN,Failure to Yield Right-of-Way
+38623,HUMAN,Failure to Yield Right-of-Way
+38624,HUMAN,Failure to Yield Right-of-Way
+38625,HUMAN,Failure to Yield Right-of-Way
+38626,HUMAN,Failure to Yield Right-of-Way
+38627,HUMAN,Failure to Yield Right-of-Way
+38628,HUMAN,Failure to Yield Right-of-Way
+38629,HUMAN,Failure to Yield Right-of-Way
+38630,HUMAN,Failure to Yield Right-of-Way
+38631,HUMAN,Failure to Yield Right-of-Way
+38632,HUMAN,Failure to Yield Right-of-Way
+38633,HUMAN,Failure to Yield Right-of-Way
+38634,HUMAN,Failure to Yield Right-of-Way
+38635,HUMAN,Failure to Yield Right-of-Way
+38636,HUMAN,Failure to Yield Right-of-Way
+38637,HUMAN,Failure to Yield Right-of-Way
+38638,HUMAN,Failure to Yield Right-of-Way
+38639,HUMAN,Failure to Yield Right-of-Way
+38640,HUMAN,Failure to Yield Right-of-Way
+38641,HUMAN,Failure to Yield Right-of-Way
+38642,HUMAN,Failure to Yield Right-of-Way
+38643,HUMAN,Failure to Yield Right-of-Way
+38644,HUMAN,Failure to Yield Right-of-Way
+38645,HUMAN,Failure to Yield Right-of-Way
+38646,HUMAN,Failure to Yield Right-of-Way
+38647,HUMAN,Failure to Yield Right-of-Way
+38648,HUMAN,Failure to Yield Right-of-Way
+38649,HUMAN,Failure to Yield Right-of-Way
+38650,HUMAN,Failure to Yield Right-of-Way
+38651,HUMAN,Failure to Yield Right-of-Way
+38652,HUMAN,Failure to Yield Right-of-Way
+38653,HUMAN,Fatigued/Drowsy
+38654,HUMAN,Fatigued/Drowsy
+38655,HUMAN,Fatigued/Drowsy
+38656,HUMAN,Fell Asleep
+38657,HUMAN,Fell Asleep
+38658,HUMAN,Following Too Closely
+38659,HUMAN,Following Too Closely
+38660,HUMAN,Following Too Closely
+38661,HUMAN,Following Too Closely
+38662,HUMAN,Following Too Closely
+38663,HUMAN,Following Too Closely
+38664,HUMAN,Following Too Closely
+38665,HUMAN,Following Too Closely
+38666,HUMAN,Following Too Closely
+38667,HUMAN,Following Too Closely
+38668,HUMAN,Following Too Closely
+38669,HUMAN,Following Too Closely
+38670,HUMAN,Following Too Closely
+38671,HUMAN,Following Too Closely
+38672,HUMAN,Following Too Closely
+38673,HUMAN,Following Too Closely
+38674,HUMAN,Following Too Closely
+38675,HUMAN,Following Too Closely
+38676,HUMAN,Following Too Closely
+38677,HUMAN,Following Too Closely
+38678,HUMAN,Following Too Closely
+38679,HUMAN,Following Too Closely
+38680,HUMAN,Following Too Closely
+38681,HUMAN,Following Too Closely
+38682,HUMAN,Following Too Closely
+38683,HUMAN,Following Too Closely
+38684,HUMAN,Following Too Closely
+38685,HUMAN,Following Too Closely
+38686,HUMAN,Following Too Closely
+38687,HUMAN,Following Too Closely
+38688,HUMAN,Following Too Closely
+38689,HUMAN,Following Too Closely
+38690,HUMAN,Following Too Closely
+38691,HUMAN,Following Too Closely
+38692,HUMAN,Following Too Closely
+38693,HUMAN,Following Too Closely
+38694,HUMAN,Following Too Closely
+38695,HUMAN,Following Too Closely
+38696,HUMAN,Following Too Closely
+38697,HUMAN,Following Too Closely
+38698,HUMAN,Following Too Closely
+38699,HUMAN,Following Too Closely
+38700,HUMAN,Following Too Closely
+38701,HUMAN,Following Too Closely
+38702,ENVMT,Glare
+38703,HUMAN,Illness
+38704,ENVMT,Lane Marking Improper/Inadequate
+38705,HUMAN,Lost Consciousness
+38706,HUMAN,Lost Consciousness
+38707,HUMAN,Lost Consciousness
+38708,HUMAN,Not Applicable
+38709,ENVMT,Not Applicable
+38710,HUMAN,Not Applicable
+38711,ENVMT,Not Applicable
+38712,ENVMT,Not Applicable
+38713,ENVMT,Not Applicable
+38714,HUMAN,Not Applicable
+38715,HUMAN,Not Applicable
+38716,ENVMT,Not Applicable
+38717,HUMAN,Not Applicable
+38718,HUMAN,Not Applicable
+38719,ENVMT,Not Applicable
+38720,HUMAN,Not Applicable
+38721,ENVMT,Not Applicable
+38722,HUMAN,Not Applicable
+38723,ENVMT,Not Applicable
+38724,HUMAN,Not Applicable
+38725,HUMAN,Not Applicable
+38726,ENVMT,Not Applicable
+38727,HUMAN,Not Applicable
+38728,HUMAN,Not Applicable
+38729,HUMAN,Not Applicable
+38730,ENVMT,Not Applicable
+38731,ENVMT,Not Applicable
+38732,HUMAN,Not Applicable
+38733,HUMAN,Not Applicable
+38734,HUMAN,Not Applicable
+38735,VEHICLE,Not Applicable
+38736,HUMAN,Not Applicable
+38737,HUMAN,Not Applicable
+38738,HUMAN,Not Applicable
+38739,HUMAN,Not Applicable
+38740,HUMAN,Not Applicable
+38741,ENVMT,Not Applicable
+38742,HUMAN,Not Applicable
+38743,VEHICLE,Not Applicable
+38744,HUMAN,Not Applicable
+38745,HUMAN,Not Applicable
+38746,HUMAN,Not Applicable
+38747,HUMAN,Not Applicable
+38748,HUMAN,Not Applicable
+38749,HUMAN,Not Applicable
+38750,ENVMT,Not Applicable
+38751,ENVMT,Not Applicable
+38752,HUMAN,Not Applicable
+38753,HUMAN,Not Applicable
+38754,HUMAN,Not Applicable
+38755,HUMAN,Not Applicable
+38756,HUMAN,Not Applicable
+38757,HUMAN,Not Applicable
+38758,HUMAN,Not Applicable
+38759,HUMAN,Not Applicable
+38760,HUMAN,Not Applicable
+38761,HUMAN,Not Applicable
+38762,HUMAN,Not Applicable
+38763,HUMAN,Not Applicable
+38764,HUMAN,Not Applicable
+38765,HUMAN,Not Applicable
+38766,HUMAN,Not Applicable
+38767,HUMAN,Obstruction/ Debris
+38768,HUMAN,Obstruction/ Debris
+38769,HUMAN,Obstruction/ Debris
+38770,ENVMT,Obstruction/ Debris
+38771,ENVMT,Obstruction/ Debris
+38772,ENVMT,Obstruction/ Debris
+38773,ENVMT,Obstruction/ Debris
+38774,VEHICLE,Other*
+38775,VEHICLE,Other*
+38776,VEHICLE,Other*
+38777,VEHICLE,Other*
+38778,HUMAN,Outside Car Distraction*
+38779,ENVMT,Oversized Vehicle
+38780,HUMAN,Passenger Distraction
+38781,HUMAN,Passing or Lane Usage Improper
+38782,HUMAN,Passing or Lane Usage Improper
+38783,HUMAN,Passing or Lane Usage Improper
+38784,HUMAN,Passing or Lane Usage Improper
+38785,HUMAN,Passing or Lane Usage Improper
+38786,HUMAN,Passing or Lane Usage Improper
+38787,HUMAN,Passing or Lane Usage Improper
+38788,HUMAN,Passing or Lane Usage Improper
+38789,HUMAN,Passing or Lane Usage Improper
+38790,HUMAN,Passing or Lane Usage Improper
+38791,HUMAN,Passing or Lane Usage Improper
+38792,ENVMT,Pavement Slippery
+38793,ENVMT,Pavement Slippery
+38794,ENVMT,Pavement Slippery
+38795,ENVMT,Pavement Slippery
+38796,ENVMT,Pavement Slippery
+38797,ENVMT,Pavement Slippery
+38798,ENVMT,Pavement Slippery
+38799,ENVMT,Pavement Slippery
+38800,ENVMT,Pavement Slippery
+38801,ENVMT,Pavement Slippery
+38802,ENVMT,Pavement Slippery
+38803,ENVMT,Pavement Slippery
+38804,ENVMT,Pavement Slippery
+38805,ENVMT,Pavement Slippery
+38806,ENVMT,Pavement Slippery
+38807,ENVMT,Pavement Slippery
+38808,ENVMT,Pavement Slippery
+38809,ENVMT,Pavement Slippery
+38810,ENVMT,Pavement Slippery
+38811,ENVMT,Pavement Slippery
+38812,ENVMT,Pavement Slippery
+38813,ENVMT,Pavement Slippery
+38814,ENVMT,Pavement Slippery
+38815,ENVMT,Pavement Slippery
+38816,ENVMT,Pavement Slippery
+38817,ENVMT,Pavement Slippery
+38818,ENVMT,Pavement Slippery
+38819,ENVMT,Pavement Slippery
+38820,ENVMT,Pavement Slippery
+38821,ENVMT,Pavement Slippery
+38822,ENVMT,Pavement Slippery
+38823,ENVMT,Pavement Slippery
+38824,ENVMT,Pavement Slippery
+38825,ENVMT,Pavement Slippery
+38826,ENVMT,Pavement Slippery
+38827,ENVMT,Pavement Slippery
+38828,ENVMT,Pavement Slippery
+38829,HUMAN,Reaction to Other Uninvolved Vehicle
+38830,HUMAN,Reaction to Other Uninvolved Vehicle
+38831,HUMAN,Reaction to Other Uninvolved Vehicle
+38832,HUMAN,Reaction to Other Uninvolved Vehicle
+38833,HUMAN,Reaction to Other Uninvolved Vehicle
+38834,HUMAN,Reaction to Other Uninvolved Vehicle
+38835,HUMAN,Reaction to Other Uninvolved Vehicle
+38836,HUMAN,Reaction to Other Uninvolved Vehicle
+38837,HUMAN,Reaction to Other Uninvolved Vehicle
+38838,VEHICLE,Tire Failure/Inadequate
+38839,VEHICLE,Tire Failure/Inadequate
+38840,ENVMT,Traffic Control Device Disregarded
+38841,ENVMT,Traffic Control Device Disregarded
+38842,HUMAN,Traffic Control Device Disregarded
+38843,HUMAN,Traffic Control Device Disregarded
+38844,HUMAN,Traffic Control Device Disregarded
+38845,HUMAN,Traffic Control Device Disregarded
+38846,HUMAN,Traffic Control Device Disregarded
+38847,HUMAN,Traffic Control Device Disregarded
+38848,HUMAN,Traffic Control Device Disregarded
+38849,HUMAN,Traffic Control Device Disregarded
+38850,HUMAN,Traffic Control Device Disregarded
+38851,HUMAN,Traffic Control Device Disregarded
+38852,HUMAN,Traffic Control Device Disregarded
+38853,HUMAN,Traffic Control Device Disregarded
+38854,HUMAN,Traffic Control Device Disregarded
+38855,HUMAN,Traffic Control Device Disregarded
+38856,HUMAN,Traffic Control Device Disregarded
+38857,HUMAN,Traffic Control Device Disregarded
+38858,HUMAN,Traffic Control Device Disregarded
+38859,HUMAN,Traffic Control Device Disregarded
+38860,HUMAN,Turning Improperly
+38861,HUMAN,Turning Improperly
+38862,HUMAN,Turning Improperly
+38863,HUMAN,Turning Improperly
+38864,HUMAN,Turning Improperly
+38865,HUMAN,Turning Improperly
+38866,HUMAN,Turning Improperly
+38867,HUMAN,Turning Improperly
+38868,HUMAN,Turning Improperly
+38869,HUMAN,Turning Improperly
+38870,HUMAN,Turning Improperly
+38871,HUMAN,Turning Improperly
+38872,HUMAN,Unsafe Lane Changing
+38873,HUMAN,Unsafe Lane Changing
+38874,HUMAN,Unsafe Lane Changing
+38875,HUMAN,Unsafe Lane Changing
+38876,HUMAN,Unsafe Lane Changing
+38877,HUMAN,Unsafe Lane Changing
+38878,HUMAN,Unsafe Speed
+38879,HUMAN,Unsafe Speed
+38880,HUMAN,Unsafe Speed
+38881,HUMAN,Unsafe Speed
+38882,HUMAN,Unsafe Speed
+38883,HUMAN,Unsafe Speed
+38884,HUMAN,Unsafe Speed
+38885,HUMAN,Unsafe Speed
+38886,HUMAN,Unsafe Speed
+38887,HUMAN,Unsafe Speed
+38888,HUMAN,Unsafe Speed
+38889,HUMAN,Unsafe Speed
+38890,HUMAN,Unsafe Speed
+38891,HUMAN,Unsafe Speed
+38892,HUMAN,Unsafe Speed
+38893,HUMAN,Unsafe Speed
+38894,HUMAN,Unsafe Speed
+38895,HUMAN,Unsafe Speed
+38896,HUMAN,Unsafe Speed
+38897,ENVMT,View Obstructed/Limited
+38898,ENVMT,View Obstructed/Limited
+38899,ENVMT,View Obstructed/Limited
+38900,ENVMT,View Obstructed/Limited
+38901,ENVMT,View Obstructed/Limited
+38902,ENVMT,View Obstructed/Limited
+38903,ENVMT,View Obstructed/Limited
+38904,ENVMT,View Obstructed/Limited
+38905,ENVMT,View Obstructed/Limited
+38906,ENVMT,View Obstructed/Limited
+38907,ENVMT,View Obstructed/Limited
+38908,ENVMT,View Obstructed/Limited
+38909,ENVMT,View Obstructed/Limited
+38910,ANIMAL,Animal's Action
+38911,HUMAN,Backing Unsafely
+38912,HUMAN,Failure to Yield Right-of-Way
+38913,ENVMT,Pavement Slippery
+38914,HUMAN,Turning Improperly
+38915,HUMAN,Unsafe Lane Changing
+38916,HUMAN,Unsafe Lane Changing
+38917,ENVMT,View Obstructed/Limited
+38918,HUMAN,Aggressive Driving/Road Rage
+38919,ANIMAL,Animal's Action
+38920,ANIMAL,Animal's Action
+38921,ANIMAL,Animal's Action
+38922,HUMAN,Backing Unsafely
+38923,HUMAN,Backing Unsafely
+38924,HUMAN,Backing Unsafely
+38925,HUMAN,Backing Unsafely
+38926,HUMAN,Backing Unsafely
+38927,HUMAN,Driver Inattention/Distraction*
+38928,HUMAN,Driver Inattention/Distraction*
+38929,HUMAN,Driver Inattention/Distraction*
+38930,HUMAN,Driver Inattention/Distraction*
+38931,HUMAN,Driver Inattention/Distraction*
+38932,HUMAN,Driver Inexperience*
+38933,VEHICLE,Driverless/Runaway Vehicle
+38934,HUMAN,Failure to Yield Right-of-Way
+38935,HUMAN,Failure to Yield Right-of-Way
+38936,HUMAN,Failure to Yield Right-of-Way
+38937,HUMAN,Failure to Yield Right-of-Way
+38938,HUMAN,Failure to Yield Right-of-Way
+38939,HUMAN,Failure to Yield Right-of-Way
+38940,HUMAN,Failure to Yield Right-of-Way
+38941,HUMAN,Failure to Yield Right-of-Way
+38942,HUMAN,Fatigued/Drowsy
+38943,HUMAN,Following Too Closely
+38944,HUMAN,Following Too Closely
+38945,HUMAN,Following Too Closely
+38946,HUMAN,Following Too Closely
+38947,HUMAN,Following Too Closely
+38948,HUMAN,Following Too Closely
+38949,HUMAN,Following Too Closely
+38950,HUMAN,Following Too Closely
+38951,HUMAN,Following Too Closely
+38952,HUMAN,Following Too Closely
+38953,ENVMT,Glare
+38954,ENVMT,Glare
+38955,HUMAN,Illness
+38956,ENVMT,Not Applicable
+38957,HUMAN,Not Applicable
+38958,HUMAN,Not Applicable
+38959,HUMAN,Not Applicable
+38960,ENVMT,Not Applicable
+38961,ENVMT,Not Applicable
+38962,ENVMT,Not Applicable
+38963,ENVMT,Not Applicable
+38964,HUMAN,Not Applicable
+38965,HUMAN,Not Applicable
+38966,ENVMT,Not Applicable
+38967,HUMAN,Not Applicable
+38968,HUMAN,Not Applicable
+38969,ENVMT,Not Applicable
+38970,ENVMT,Not Applicable
+38971,HUMAN,Not Applicable
+38972,HUMAN,Not Applicable
+38973,HUMAN,Not Applicable
+38974,HUMAN,Not Applicable
+38975,HUMAN,Not Applicable
+38976,HUMAN,Not Applicable
+38977,HUMAN,Not Applicable
+38978,HUMAN,Not Applicable
+38979,HUMAN,Not Applicable
+38980,ENVMT,Obstruction/ Debris
+38981,HUMAN,Passing or Lane Usage Improper
+38982,HUMAN,Passing or Lane Usage Improper
+38983,HUMAN,Passing or Lane Usage Improper
+38984,HUMAN,Passing or Lane Usage Improper
+38985,HUMAN,Passing or Lane Usage Improper
+38986,HUMAN,Passing Too Closely
+38987,HUMAN,Passing Too Closely
+38988,ENVMT,Pavement Slippery
+38989,ENVMT,Pavement Slippery
+38990,ENVMT,Pavement Slippery
+38991,ENVMT,Pavement Slippery
+38992,ENVMT,Pavement Slippery
+38993,ENVMT,Pavement Slippery
+38994,HUMAN,Pedestrian/Bicyclist Error/Confusion
+38995,HUMAN,Reaction to Other Uninvolved Vehicle
+38996,HUMAN,Reaction to Other Uninvolved Vehicle
+38997,VEHICLE,Tire Failure/Inadequate
+38998,HUMAN,Traffic Control Device Disregarded
+38999,ENVMT,Traffic Control Device Disregarded
+39000,HUMAN,Traffic Control Device Disregarded
+39001,HUMAN,Traffic Control Device Disregarded
+39002,HUMAN,Traffic Control Device Disregarded
+39003,HUMAN,Traffic Control Device Disregarded
+39004,HUMAN,Turning Improperly
+39005,HUMAN,Turning Improperly
+39006,HUMAN,Unsafe Lane Changing
+39007,HUMAN,Unsafe Speed
+39008,HUMAN,Unsafe Speed
+39009,HUMAN,Unsafe Speed
+39010,HUMAN,Unsafe Speed
+39011,HUMAN,Unsafe Speed
+39012,HUMAN,Unsafe Speed
+39013,HUMAN,Unsafe Speed
+39014,ENVMT,View Obstructed/Limited
+39015,HUMAN,Not Applicable
+39016,ENVMT,View Obstructed/Limited
+39017,ANIMAL,Animal's Action
+39018,VEHICLE,Brakes Defective
+39019,HUMAN,Driver Inattention/Distraction*
+39020,HUMAN,Following Too Closely
+39021,ENVMT,Glare
+39022,HUMAN,Illness
+39023,HUMAN,Lost Consciousness
+39024,HUMAN,Not Applicable
+39025,HUMAN,Not Applicable
+39026,HUMAN,Not Applicable
+39027,ENVMT,Pavement Slippery
+39028,ENVMT,Pavement Slippery
+39029,HUMAN,Traffic Control Device Disregarded
+39030,HUMAN,Turning Improperly
+39031,HUMAN,Unsafe Speed
+39032,HUMAN,Unsafe Speed
+39033,HUMAN,Unsafe Speed
+39034,ANIMAL,Animal's Action
+39035,ANIMAL,Animal's Action
+39036,ANIMAL,Animal's Action
+39037,ANIMAL,Animal's Action
+39038,ANIMAL,Animal's Action
+39039,ANIMAL,Animal's Action
+39040,ANIMAL,Animal's Action
+39041,ANIMAL,Animal's Action
+39042,ANIMAL,Animal's Action
+39043,ANIMAL,Animal's Action
+39044,ANIMAL,Animal's Action
+39045,ANIMAL,Animal's Action
+39046,ANIMAL,Animal's Action
+39047,ANIMAL,Animal's Action
+39048,ANIMAL,Animal's Action
+39049,ANIMAL,Animal's Action
+39050,ANIMAL,Animal's Action
+39051,ANIMAL,Animal's Action
+39052,ANIMAL,Animal's Action
+39053,ANIMAL,Animal's Action
+39054,HUMAN,Backing Unsafely
+39055,HUMAN,Backing Unsafely
+39056,HUMAN,Backing Unsafely
+39057,HUMAN,Backing Unsafely
+39058,HUMAN,Backing Unsafely
+39059,HUMAN,Backing Unsafely
+39060,HUMAN,Backing Unsafely
+39061,HUMAN,Backing Unsafely
+39062,VEHICLE,Brakes Defective
+39063,HUMAN,Cell Phone (hand held)
+39064,HUMAN,Driver Inattention/Distraction*
+39065,HUMAN,Driver Inattention/Distraction*
+39066,HUMAN,Driver Inattention/Distraction*
+39067,HUMAN,Driver Inattention/Distraction*
+39068,HUMAN,Driver Inattention/Distraction*
+39069,HUMAN,Driver Inattention/Distraction*
+39070,HUMAN,Driver Inattention/Distraction*
+39071,HUMAN,Driver Inattention/Distraction*
+39072,HUMAN,Driver Inattention/Distraction*
+39073,HUMAN,Driver Inattention/Distraction*
+39074,HUMAN,Driver Inattention/Distraction*
+39075,HUMAN,Driver Inattention/Distraction*
+39076,HUMAN,Driver Inattention/Distraction*
+39077,HUMAN,Driver Inattention/Distraction*
+39078,HUMAN,Driver Inattention/Distraction*
+39079,HUMAN,Driver Inattention/Distraction*
+39080,HUMAN,Driver Inexperience*
+39081,HUMAN,Driver Inexperience*
+39082,HUMAN,Drugs (Illegal)
+39083,HUMAN,Failure to Keep Right
+39084,HUMAN,Failure to Keep Right
+39085,HUMAN,Failure to Keep Right
+39086,HUMAN,Failure to Yield Right-of-Way
+39087,HUMAN,Failure to Yield Right-of-Way
+39088,HUMAN,Failure to Yield Right-of-Way
+39089,HUMAN,Failure to Yield Right-of-Way
+39090,HUMAN,Failure to Yield Right-of-Way
+39091,HUMAN,Failure to Yield Right-of-Way
+39092,HUMAN,Failure to Yield Right-of-Way
+39093,HUMAN,Failure to Yield Right-of-Way
+39094,HUMAN,Failure to Yield Right-of-Way
+39095,HUMAN,Failure to Yield Right-of-Way
+39096,HUMAN,Failure to Yield Right-of-Way
+39097,HUMAN,Failure to Yield Right-of-Way
+39098,HUMAN,Failure to Yield Right-of-Way
+39099,HUMAN,Failure to Yield Right-of-Way
+39100,HUMAN,Failure to Yield Right-of-Way
+39101,HUMAN,Failure to Yield Right-of-Way
+39102,HUMAN,Failure to Yield Right-of-Way
+39103,HUMAN,Following Too Closely
+39104,HUMAN,Following Too Closely
+39105,HUMAN,Following Too Closely
+39106,HUMAN,Following Too Closely
+39107,HUMAN,Following Too Closely
+39108,HUMAN,Following Too Closely
+39109,HUMAN,Following Too Closely
+39110,HUMAN,Following Too Closely
+39111,HUMAN,Following Too Closely
+39112,HUMAN,Following Too Closely
+39113,HUMAN,Following Too Closely
+39114,HUMAN,Following Too Closely
+39115,HUMAN,Following Too Closely
+39116,HUMAN,Following Too Closely
+39117,HUMAN,Following Too Closely
+39118,HUMAN,Following Too Closely
+39119,HUMAN,Following Too Closely
+39120,HUMAN,Following Too Closely
+39121,HUMAN,Following Too Closely
+39122,HUMAN,Following Too Closely
+39123,HUMAN,Following Too Closely
+39124,HUMAN,Following Too Closely
+39125,HUMAN,Following Too Closely
+39126,HUMAN,Following Too Closely
+39127,HUMAN,Following Too Closely
+39128,HUMAN,Following Too Closely
+39129,ENVMT,Glare
+39130,WEATHR,View Obstructed - Rain
+39131,WEATHR,View Obstructed - Rain
+39132,WEATHR,View Obstructed - Rain
+39133,WEATHR,View Obstructed - Rain
+39134,WEATHR,View Obstructed - Rain
+39135,WEATHR,View Obstructed - Rain
+39136,WEATHR,View Obstructed - Rain
+39137,WEATHR,View Obstructed - Rain
+39138,WEATHR,View Obstructed - Rain
+39139,WEATHR,View Obstructed - Rain
+39140,WEATHR,View Obstructed - Rain
+39141,WEATHR,View Obstructed - Rain
+39142,WEATHR,View Obstructed - Rain
+39143,WEATHR,View Obstructed - Rain
+39144,WEATHR,View Obstructed - Rain
+39145,WEATHR,View Obstructed - Rain
+39146,WEATHR,View Obstructed - Rain
+39147,WEATHR,View Obstructed - Rain
+39148,WEATHR,view Obstructed - Rain
+39149,WEATHR,View Obstructed - Rain
+39150,WEATHR,View Obstructed - Rain
+39151,WEATHR,View Obstructed - Rain
+39152,WEATHR,View Obstructed - Rain
+39153,WEATHR,View Obstructed - Rain
+39154,WEATHR,View Obstructed - Rain
+39155,WEATHR,View Obstructed - Rain
+39156,WEATHR,View Obstructed - Rain
+39157,WEATHR,View Obstructed - Rain
+39158,WEATHR,View Obstructed - Rain
+39159,WEATHR,View Obstructed - Rain
+39160,HUMAN,Not Applicable
+39161,HUMAN,Not Applicable
+39162,ENVMT,Not Applicable
+39163,ENVMT,Not Applicable
+39164,ENVMT,Not Applicable
+39165,ENVMT,Not Applicable
+39166,HUMAN,Not Applicable
+39167,ENVMT,Not Applicable
+39168,HUMAN,Not Applicable
+39169,HUMAN,Not Applicable
+39170,ENVMT,Not Applicable
+39171,HUMAN,Not Applicable
+39172,HUMAN,Not Applicable
+39173,ENVMT,Not Applicable
+39174,ENVMT,Not Applicable
+39175,ENVMT,Not Applicable
+39176,ENVMT,Not Applicable
+39177,VEHICLE,Not Applicable
+39178,HUMAN,Not Applicable
+39179,HUMAN,Not Applicable
+39180,HUMAN,Not Applicable
+39181,ENVMT,Not Applicable
+39182,HUMAN,Not Applicable
+39183,HUMAN,Not Applicable
+39184,ENVMT,Not Applicable
+39185,HUMAN,Not Applicable
+39186,HUMAN,Not Applicable
+39187,HUMAN,Not Applicable
+39188,HUMAN,Not Applicable
+39189,HUMAN,Not Applicable
+39190,ENVMT,Obstruction/ Debris
+39191,ENVMT,Obstruction/ Debris
+39192,ENVMT,Obstruction/ Debris
+39193,ENVMT,Obstruction/ Debris
+39194,VEHICLE,Other*
+39195,VEHICLE,Other*
+39196,ENVMT,Oversized Vehicle
+39197,ENVMT,Oversized Vehicle
+39198,HUMAN,Passenger Distraction
+39199,HUMAN,Passing or Lane Usage Improper
+39200,HUMAN,Passing or Lane Usage Improper
+39201,HUMAN,Passing or Lane Usage Improper
+39202,HUMAN,Passing or Lane Usage Improper
+39203,HUMAN,Passing or Lane Usage Improper
+39204,HUMAN,Passing or Lane Usage Improper
+39205,HUMAN,Passing Too Closely
+39206,ENVMT,Pavement Slippery
+39207,ENVMT,Pavement Slippery
+39208,ENVMT,Pavement Slippery
+39209,ENVMT,Pavement Slippery
+39210,ENVMT,Pavement Slippery
+39211,ENVMT,Pavement Slippery
+39212,ENVMT,Pavement Slippery
+39213,ENVMT,Pavement Slippery
+39214,ENVMT,Pavement Slippery
+39215,ENVMT,Pavement Slippery
+39216,ENVMT,Pavement Slippery
+39217,ENVMT,Pavement Slippery
+39218,ENVMT,Pavement Slippery
+39219,ENVMT,Pavement Slippery
+39220,ENVMT,Pavement Slippery
+39221,ENVMT,Pavement Slippery
+39222,ENVMT,Pavement Slippery
+39223,ENVMT,Pavement Slippery
+39224,ENVMT,Pavement Slippery
+39225,ENVMT,Pavement Slippery
+39226,ENVMT,Pavement Slippery
+39227,ENVMT,Pavement Slippery
+39228,ENVMT,Pavement Slippery
+39229,ENVMT,Pavement Slippery
+39230,ENVMT,Pavement Slippery
+39231,ENVMT,Pavement Slippery
+39232,HUMAN,Reaction to Other Uninvolved Vehicle
+39233,HUMAN,Reaction to Other Uninvolved Vehicle
+39234,HUMAN,Reaction to Other Uninvolved Vehicle
+39235,HUMAN,Reaction to Other Uninvolved Vehicle
+39236,HUMAN,Reaction to Other Uninvolved Vehicle
+39237,HUMAN,Reaction to Other Uninvolved Vehicle
+39238,HUMAN,Reaction to Other Uninvolved Vehicle
+39239,VEHICLE,Steering Failure
+39240,VEHICLE,Tire Failure/Inadequate
+39241,VEHICLE,Tire Failure/Inadequate
+39242,VEHICLE,Tire Failure/Inadequate
+39243,HUMAN,Traffic Control Device Disregarded
+39244,HUMAN,Traffic Control Device Disregarded
+39245,HUMAN,Traffic Control Device Disregarded
+39246,HUMAN,Traffic Control Device Disregarded
+39247,HUMAN,Turning Improperly
+39248,HUMAN,Turning Improperly
+39249,HUMAN,Turning Improperly
+39250,HUMAN,Turning Improperly
+39251,HUMAN,Turning Improperly
+39252,HUMAN,Turning Improperly
+39253,HUMAN,Turning Improperly
+39254,HUMAN,Unsafe Lane Changing
+39255,HUMAN,Unsafe Lane Changing
+39256,HUMAN,Unsafe Lane Changing
+39257,HUMAN,Unsafe Lane Changing
+39258,HUMAN,Unsafe Lane Changing
+39259,HUMAN,Unsafe Speed
+39260,HUMAN,Unsafe Speed
+39261,HUMAN,Unsafe Speed
+39262,HUMAN,Unsafe Speed
+39263,HUMAN,Unsafe Speed
+39264,HUMAN,Unsafe Speed
+39265,HUMAN,Unsafe Speed
+39266,HUMAN,Unsafe Speed
+39267,HUMAN,Unsafe Speed
+39268,HUMAN,Unsafe Speed
+39269,HUMAN,Unsafe Speed
+39270,HUMAN,Unsafe Speed
+39271,ENVMT,View Obstructed/Limited
+39272,ENVMT,View Obstructed/Limited
+39273,HUMAN,Driver Inattention/Distraction*
+39274,ENVMT,Not Applicable
+39275,HUMAN,Not Applicable
+39276,VEHICLE,Accelerator Defective
+39277,HUMAN,Aggressive Driving/Road Rage
+39278,HUMAN,Aggressive Driving/Road Rage
+39279,HUMAN,Aggressive Driving/Road Rage
+39280,HUMAN,Alcohol Involvement
+39281,HUMAN,Alcohol Involvement
+39282,HUMAN,Alcohol Involvement
+39283,HUMAN,Alcohol Involvement
+39284,ANIMAL,Animal's Action
+39285,ANIMAL,Animal's Action
+39286,ANIMAL,Animal's Action
+39287,ANIMAL,Animal's Action
+39288,ANIMAL,Animal's Action
+39289,ANIMAL,Animal's Action
+39290,ANIMAL,Animal's Action
+39291,ANIMAL,Animal's Action
+39292,ANIMAL,Animal's Action
+39293,ANIMAL,Animal's Action
+39294,ANIMAL,Animal's Action
+39295,ANIMAL,Animal's Action
+39296,ANIMAL,Animal's Action
+39297,ANIMAL,Animal's Action
+39298,ANIMAL,Animal's Action
+39299,ANIMAL,Animal's Action
+39300,ANIMAL,Animal's Action
+39301,ANIMAL,Animal's Action
+39302,ANIMAL,Animal's Action
+39303,ANIMAL,Animal's Action
+39304,ANIMAL,Animal's Action
+39305,HUMAN,Backing Unsafely
+39306,HUMAN,Backing Unsafely
+39307,HUMAN,Backing Unsafely
+39308,HUMAN,Backing Unsafely
+39309,HUMAN,Backing Unsafely
+39310,HUMAN,Backing Unsafely
+39311,HUMAN,Backing Unsafely
+39312,HUMAN,Backing Unsafely
+39313,HUMAN,Backing Unsafely
+39314,HUMAN,Backing Unsafely
+39315,HUMAN,Backing Unsafely
+39316,HUMAN,Backing Unsafely
+39317,HUMAN,Backing Unsafely
+39318,HUMAN,Backing Unsafely
+39319,HUMAN,Backing Unsafely
+39320,HUMAN,Backing Unsafely
+39321,HUMAN,Backing Unsafely
+39322,HUMAN,Backing Unsafely
+39323,HUMAN,Backing Unsafely
+39324,HUMAN,Backing Unsafely
+39325,VEHICLE,Brakes Defective
+39326,VEHICLE,Brakes Defective
+39327,VEHICLE,Brakes Defective
+39328,VEHICLE,Brakes Defective
+39329,VEHICLE,Brakes Defective
+39330,VEHICLE,Brakes Defective
+39331,HUMAN,Driver Inattention/Distraction*
+39332,HUMAN,Driver Inattention/Distraction*
+39333,HUMAN,Driver Inattention/Distraction*
+39334,HUMAN,Driver Inattention/Distraction*
+39335,HUMAN,Driver Inattention/Distraction*
+39336,HUMAN,Driver Inattention/Distraction*
+39337,HUMAN,Driver Inattention/Distraction*
+39338,HUMAN,Driver Inattention/Distraction*
+39339,HUMAN,Driver Inattention/Distraction*
+39340,HUMAN,Driver Inattention/Distraction*
+39341,HUMAN,Driver Inattention/Distraction*
+39342,HUMAN,Driver Inattention/Distraction*
+39343,HUMAN,Driver Inattention/Distraction*
+39344,HUMAN,Driver Inattention/Distraction*
+39345,HUMAN,Driver Inattention/Distraction*
+39346,HUMAN,Driver Inattention/Distraction*
+39347,HUMAN,Driver Inattention/Distraction*
+39348,HUMAN,Driver Inattention/Distraction*
+39349,HUMAN,Driver Inattention/Distraction*
+39350,HUMAN,Driver Inattention/Distraction*
+39351,HUMAN,Driver Inattention/Distraction*
+39352,HUMAN,Driver Inattention/Distraction*
+39353,HUMAN,Driver Inattention/Distraction*
+39354,HUMAN,Driver Inattention/Distraction*
+39355,HUMAN,Driver Inattention/Distraction*
+39356,HUMAN,Driver Inattention/Distraction*
+39357,HUMAN,Driver Inattention/Distraction*
+39358,HUMAN,Driver Inattention/Distraction*
+39359,HUMAN,Driver Inattention/Distraction*
+39360,HUMAN,Driver Inattention/Distraction*
+39361,HUMAN,Driver Inattention/Distraction*
+39362,HUMAN,Driver Inattention/Distraction*
+39363,HUMAN,Driver Inattention/Distraction*
+39364,HUMAN,Driver Inattention/Distraction*
+39365,HUMAN,Driver Inattention/Distraction*
+39366,HUMAN,Driver Inattention/Distraction*
+39367,HUMAN,Driver Inattention/Distraction*
+39368,HUMAN,Driver Inattention/Distraction*
+39369,HUMAN,Driver Inattention/Distraction*
+39370,HUMAN,Driver Inattention/Distraction*
+39371,HUMAN,Driver Inattention/Distraction*
+39372,HUMAN,Driver Inattention/Distraction*
+39373,HUMAN,Driver Inattention/Distraction*
+39374,HUMAN,Driver Inattention/Distraction*
+39375,HUMAN,Driver Inattention/Distraction*
+39376,HUMAN,Driver Inattention/Distraction*
+39377,HUMAN,Driver Inattention/Distraction*
+39378,HUMAN,Driver Inattention/Distraction*
+39379,HUMAN,Driver Inattention/Distraction*
+39380,HUMAN,Driver Inattention/Distraction*
+39381,HUMAN,Driver Inattention/Distraction*
+39382,HUMAN,Driver Inattention/Distraction*
+39383,HUMAN,Driver Inattention/Distraction*
+39384,HUMAN,Driver Inattention/Distraction*
+39385,HUMAN,Driver Inattention/Distraction*
+39386,HUMAN,Driver Inattention/Distraction*
+39387,HUMAN,Driver Inattention/Distraction*
+39388,HUMAN,Driver Inattention/Distraction*
+39389,HUMAN,Driver Inattention/Distraction*
+39390,HUMAN,Driver Inattention/Distraction*
+39391,HUMAN,Driver Inattention/Distraction*
+39392,HUMAN,Driver Inattention/Distraction*
+39393,HUMAN,Driver Inattention/Distraction*
+39394,HUMAN,Driver Inattention/Distraction*
+39395,HUMAN,Driver Inattention/Distraction*
+39396,HUMAN,Driver Inattention/Distraction*
+39397,HUMAN,Driver Inattention/Distraction*
+39398,HUMAN,Driver Inattention/Distraction*
+39399,HUMAN,Driver Inexperience*
+39400,HUMAN,Driver Inexperience*
+39401,HUMAN,Driver Inexperience*
+39402,HUMAN,Failure to Keep Right
+39403,HUMAN,Failure to Keep Right
+39404,HUMAN,Failure to Keep Right
+39405,HUMAN,Failure to Keep Right
+39406,HUMAN,Failure to Keep Right
+39407,HUMAN,Failure to Keep Right
+39408,HUMAN,Failure to Keep Right
+39409,HUMAN,Failure to Keep Right
+39410,HUMAN,Failure to Yield Right-of-Way
+39411,HUMAN,Failure to Yield Right-of-Way
+39412,HUMAN,Failure to Yield Right-of-Way
+39413,HUMAN,Failure to Yield Right-of-Way
+39414,HUMAN,Failure to Yield Right-of-Way
+39415,HUMAN,Failure to Yield Right-of-Way
+39416,HUMAN,Failure to Yield Right-of-Way
+39417,HUMAN,Failure to Yield Right-of-Way
+39418,HUMAN,Failure to Yield Right-of-Way
+39419,HUMAN,Failure to Yield Right-of-Way
+39420,HUMAN,Failure to Yield Right-of-Way
+39421,HUMAN,Failure to Yield Right-of-Way
+39422,HUMAN,Failure to Yield Right-of-Way
+39423,HUMAN,Failure to Yield Right-of-Way
+39424,HUMAN,Failure to Yield Right-of-Way
+39425,HUMAN,Failure to Yield Right-of-Way
+39426,HUMAN,Failure to Yield Right-of-Way
+39427,HUMAN,Failure to Yield Right-of-Way
+39428,HUMAN,Failure to Yield Right-of-Way
+39429,HUMAN,Failure to Yield Right-of-Way
+39430,HUMAN,Failure to Yield Right-of-Way
+39431,HUMAN,Failure to Yield Right-of-Way
+39432,HUMAN,Failure to Yield Right-of-Way
+39433,HUMAN,Failure to Yield Right-of-Way
+39434,HUMAN,Failure to Yield Right-of-Way
+39435,HUMAN,Failure to Yield Right-of-Way
+39436,HUMAN,Failure to Yield Right-of-Way
+39437,HUMAN,Failure to Yield Right-of-Way
+39438,HUMAN,Failure to Yield Right-of-Way
+39439,HUMAN,Failure to Yield Right-of-Way
+39440,HUMAN,Failure to Yield Right-of-Way
+39441,HUMAN,Failure to Yield Right-of-Way
+39442,HUMAN,Failure to Yield Right-of-Way
+39443,HUMAN,Failure to Yield Right-of-Way
+39444,HUMAN,Failure to Yield Right-of-Way
+39445,HUMAN,Failure to Yield Right-of-Way
+39446,HUMAN,Failure to Yield Right-of-Way
+39447,HUMAN,Failure to Yield Right-of-Way
+39448,HUMAN,Failure to Yield Right-of-Way
+39449,HUMAN,Failure to Yield Right-of-Way
+39450,HUMAN,Failure to Yield Right-of-Way
+39451,HUMAN,Failure to Yield Right-of-Way
+39452,HUMAN,Failure to Yield Right-of-Way
+39453,HUMAN,Failure to Yield Right-of-Way
+39454,HUMAN,Fatigued/Drowsy
+39455,HUMAN,Fatigued/Drowsy
+39456,HUMAN,Fatigued/Drowsy
+39457,HUMAN,Fatigued/Drowsy
+39458,HUMAN,Fell Asleep
+39459,HUMAN,Fell Asleep
+39460,HUMAN,Following Too Closely
+39461,HUMAN,Following Too Closely
+39462,HUMAN,Following Too Closely
+39463,HUMAN,Following Too Closely
+39464,HUMAN,Following Too Closely
+39465,HUMAN,Following Too Closely
+39466,HUMAN,Following Too Closely
+39467,HUMAN,Following Too Closely
+39468,HUMAN,Following Too Closely
+39469,HUMAN,Following Too Closely
+39470,HUMAN,Following Too Closely
+39471,HUMAN,Following Too Closely
+39472,HUMAN,Following Too Closely
+39473,HUMAN,Following Too Closely
+39474,HUMAN,Following Too Closely
+39475,HUMAN,Following Too Closely
+39476,HUMAN,Following Too Closely
+39477,HUMAN,Following Too Closely
+39478,HUMAN,Following Too Closely
+39479,HUMAN,Following Too Closely
+39480,HUMAN,Following Too Closely
+39481,HUMAN,Following Too Closely
+39482,HUMAN,Following Too Closely
+39483,HUMAN,Following Too Closely
+39484,HUMAN,Following Too Closely
+39485,HUMAN,Following Too Closely
+39486,HUMAN,Following Too Closely
+39487,HUMAN,Following Too Closely
+39488,HUMAN,Following Too Closely
+39489,HUMAN,Following Too Closely
+39490,HUMAN,Following Too Closely
+39491,HUMAN,Following Too Closely
+39492,HUMAN,Following Too Closely
+39493,HUMAN,Following Too Closely
+39494,HUMAN,Following Too Closely
+39495,HUMAN,Following Too Closely
+39496,HUMAN,Following Too Closely
+39497,HUMAN,Following Too Closely
+39498,HUMAN,Following Too Closely
+39499,HUMAN,Following Too Closely
+39500,HUMAN,Following Too Closely
+39501,HUMAN,Following Too Closely
+39502,HUMAN,Following Too Closely
+39503,HUMAN,Following Too Closely
+39504,HUMAN,Following Too Closely
+39505,HUMAN,Following Too Closely
+39506,HUMAN,Following Too Closely
+39507,HUMAN,Following Too Closely
+39508,HUMAN,Following Too Closely
+39509,HUMAN,Following Too Closely
+39510,HUMAN,Following Too Closely
+39511,HUMAN,Following Too Closely
+39512,HUMAN,Following Too Closely
+39513,HUMAN,Following Too Closely
+39514,HUMAN,Following Too Closely
+39515,HUMAN,Following Too Closely
+39516,HUMAN,Following Too Closely
+39517,HUMAN,Following Too Closely
+39518,HUMAN,Following Too Closely
+39519,HUMAN,Following Too Closely
+39520,HUMAN,Following Too Closely
+39521,HUMAN,Following Too Closely
+39522,HUMAN,Following Too Closely
+39523,HUMAN,Following Too Closely
+39524,HUMAN,Following Too Closely
+39525,HUMAN,Following Too Closely
+39526,HUMAN,Following Too Closely
+39527,HUMAN,Following Too Closely
+39528,HUMAN,Following Too Closely
+39529,ENVMT,Glare
+39530,ENVMT,Glare
+39531,ENVMT,Glare
+39532,ENVMT,Glare
+39533,ENVMT,Lane Marking Improper/Inadequate
+39534,HUMAN,Lost Consciousness
+39535,HUMAN,Lost Consciousness
+39536,HUMAN,Not Applicable
+39537,HUMAN,Not Applicable
+39538,HUMAN,Not Applicable
+39539,HUMAN,Not Applicable
+39540,HUMAN,Not Applicable
+39541,ENVMT,Not Applicable
+39542,HUMAN,Not Applicable
+39543,HUMAN,Not Applicable
+39544,HUMAN,Not Applicable
+39545,VEHICLE,Not Applicable
+39546,ENVMT,Not Applicable
+39547,ENVMT,Not Applicable
+39548,HUMAN,Not Applicable
+39549,HUMAN,Not Applicable
+39550,ENVMT,Not Applicable
+39551,HUMAN,Not Applicable
+39552,VEHICLE,Not Applicable
+39553,ENVMT,Not Applicable
+39554,ENVMT,Not Applicable
+39555,ENVMT,Not Applicable
+39556,HUMAN,Not Applicable
+39557,HUMAN,Not Applicable
+39558,HUMAN,Not Applicable
+39559,ENVMT,Not Applicable
+39560,HUMAN,Not Applicable
+39561,HUMAN,Not Applicable
+39562,ENVMT,Not Applicable
+39563,ENVMT,Not Applicable
+39564,HUMAN,Not Applicable
+39565,HUMAN,Not Applicable
+39566,HUMAN,Not Applicable
+39567,ENVMT,Not Applicable
+39568,ENVMT,Not Applicable
+39569,HUMAN,Not Applicable
+39570,HUMAN,Not Applicable
+39571,HUMAN,Not Applicable
+39572,ENVMT,Not Applicable
+39573,HUMAN,Not Applicable
+39574,HUMAN,Not Applicable
+39575,HUMAN,Not Applicable
+39576,HUMAN,Not Applicable
+39577,HUMAN,Not Applicable
+39578,HUMAN,Not Applicable
+39579,HUMAN,Not Applicable
+39580,HUMAN,Not Applicable
+39581,HUMAN,Not Applicable
+39582,HUMAN,Not Applicable
+39583,HUMAN,Not Applicable
+39584,HUMAN,Not Applicable
+39585,HUMAN,Not Applicable
+39586,HUMAN,Not Applicable
+39587,HUMAN,Not Applicable
+39588,HUMAN,Not Applicable
+39589,HUMAN,Not Applicable
+39590,HUMAN,Not Applicable
+39591,HUMAN,Not Applicable
+39592,HUMAN,Not Applicable
+39593,HUMAN,Not Applicable
+39594,HUMAN,Not Applicable
+39595,HUMAN,Not Applicable
+39596,HUMAN,Not Applicable
+39597,HUMAN,Not Applicable
+39598,HUMAN,Not Applicable
+39599,HUMAN,Not Applicable
+39600,HUMAN,Not Applicable
+39601,HUMAN,Not Applicable
+39602,HUMAN,Not Applicable
+39603,ENVMT,Obstruction/ Debris
+39604,HUMAN,Obstruction/ Debris
+39605,HUMAN,Obstruction/ Debris
+39606,ENVMT,Obstruction/ Debris
+39607,ENVMT,Obstruction/ Debris
+39608,HUMAN,Other
+39609,ENVMT,Other*
+39610,VEHICLE,Other*
+39611,VEHICLE,Other*
+39612,VEHICLE,Other*
+39613,VEHICLE,Other*
+39614,VEHICLE,Other*
+39615,VEHICLE,Other*
+39616,HUMAN,Outside Car Distraction*
+39617,ENVMT,Oversized Vehicle
+39618,HUMAN,Oversized Vehicle
+39619,HUMAN,Oversized Vehicle
+39620,HUMAN,Oversized Vehicle
+39621,HUMAN,Passenger Distraction
+39622,HUMAN,Passenger Distraction
+39623,HUMAN,Passenger Distraction
+39624,HUMAN,Passing or Lane Usage Improper
+39625,HUMAN,Passing or Lane Usage Improper
+39626,HUMAN,Passing or Lane Usage Improper
+39627,HUMAN,Passing or Lane Usage Improper
+39628,HUMAN,Passing or Lane Usage Improper
+39629,HUMAN,Passing or Lane Usage Improper
+39630,HUMAN,Passing or Lane Usage Improper
+39631,HUMAN,Passing or Lane Usage Improper
+39632,HUMAN,Passing or Lane Usage Improper
+39633,HUMAN,Passing or Lane Usage Improper
+39634,HUMAN,Passing or Lane Usage Improper
+39635,HUMAN,Passing or Lane Usage Improper
+39636,HUMAN,Passing or Lane Usage Improper
+39637,HUMAN,Passing or Lane Usage Improper
+39638,HUMAN,Passing or Lane Usage Improper
+39639,HUMAN,Passing or Lane Usage Improper
+39640,HUMAN,Passing or Lane Usage Improper
+39641,HUMAN,Passing Too Closely
+39642,HUMAN,Passing Too Closely
+39643,HUMAN,Passing Too Closely
+39644,ENVMT,Pavement Defective
+39645,ENVMT,Pavement Defective
+39646,ENVMT,Pavement Defective
+39647,ENVMT,Pavement Slippery
+39648,ENVMT,Pavement Slippery
+39649,ENVMT,Pavement Slippery
+39650,ENVMT,Pavement Slippery
+39651,ENVMT,Pavement Slippery
+39652,ENVMT,Pavement Slippery
+39653,ENVMT,Pavement Slippery
+39654,ENVMT,Pavement Slippery
+39655,ENVMT,Pavement Slippery
+39656,ENVMT,Pavement Slippery
+39657,ENVMT,Pavement Slippery
+39658,ENVMT,Pavement Slippery
+39659,ENVMT,Pavement Slippery
+39660,ENVMT,Pavement Slippery
+39661,ENVMT,Pavement Slippery
+39662,ENVMT,Pavement Slippery
+39663,ENVMT,Pavement Slippery
+39664,ENVMT,Pavement Slippery
+39665,ENVMT,Pavement Slippery
+39666,ENVMT,Pavement Slippery
+39667,ENVMT,Pavement Slippery
+39668,ENVMT,Pavement Slippery
+39669,ENVMT,Pavement Slippery
+39670,ENVMT,Pavement Slippery
+39671,ENVMT,Pavement Slippery
+39672,ENVMT,Pavement Slippery
+39673,ENVMT,Pavement Slippery
+39674,ENVMT,Pavement Slippery
+39675,ENVMT,Pavement Slippery
+39676,ENVMT,Pavement Slippery
+39677,ENVMT,Pavement Slippery
+39678,ENVMT,Pavement Slippery
+39679,ENVMT,Pavement Slippery
+39680,ENVMT,Pavement Slippery
+39681,ENVMT,Pavement Slippery
+39682,ENVMT,Pavement Slippery
+39683,ENVMT,Pavement Slippery
+39684,ENVMT,Pavement Slippery
+39685,ENVMT,Pavement Slippery
+39686,ENVMT,Pavement Slippery
+39687,HUMAN,Pedestrian/Bicyclist Error/Confusion
+39688,HUMAN,Physical Disability
+39689,HUMAN,Prescription Medication
+39690,HUMAN,Reaction to Other Uninvolved Vehicle
+39691,HUMAN,Reaction to Other Uninvolved Vehicle
+39692,HUMAN,Reaction to Other Uninvolved Vehicle
+39693,HUMAN,Reaction to Other Uninvolved Vehicle
+39694,HUMAN,Reaction to Other Uninvolved Vehicle
+39695,HUMAN,Reaction to Other Uninvolved Vehicle
+39696,HUMAN,Reaction to Other Uninvolved Vehicle
+39697,HUMAN,Reaction to Other Uninvolved Vehicle
+39698,HUMAN,Reaction to Other Uninvolved Vehicle
+39699,HUMAN,Reaction to Other Uninvolved Vehicle
+39700,HUMAN,Reaction to Other Uninvolved Vehicle
+39701,VEHICLE,Tire Failure/Inadequate
+39702,VEHICLE,Tire Failure/Inadequate
+39703,ENVMT,Traffic Control Device Disregarded
+39704,ENVMT,Traffic Control Device Disregarded
+39705,HUMAN,Traffic Control Device Disregarded
+39706,HUMAN,Traffic Control Device Disregarded
+39707,HUMAN,Traffic Control Device Disregarded
+39708,HUMAN,Traffic Control Device Disregarded
+39709,HUMAN,Traffic Control Device Disregarded
+39710,HUMAN,Traffic Control Device Disregarded
+39711,HUMAN,Traffic Control Device Disregarded
+39712,HUMAN,Traffic Control Device Disregarded
+39713,HUMAN,Traffic Control Device Disregarded
+39714,HUMAN,Traffic Control Device Disregarded
+39715,HUMAN,Traffic Control Device Disregarded
+39716,HUMAN,Traffic Control Device Disregarded
+39717,HUMAN,Turning Improperly
+39718,HUMAN,Turning Improperly
+39719,HUMAN,Turning Improperly
+39720,HUMAN,Turning Improperly
+39721,HUMAN,Turning Improperly
+39722,HUMAN,Turning Improperly
+39723,HUMAN,Turning Improperly
+39724,HUMAN,Turning Improperly
+39725,HUMAN,Turning Improperly
+39726,HUMAN,Turning Improperly
+39727,HUMAN,Turning Improperly
+39728,HUMAN,Turning Improperly
+39729,HUMAN,Turning Improperly
+39730,HUMAN,Unsafe Lane Changing
+39731,HUMAN,Unsafe Lane Changing
+39732,HUMAN,Unsafe Lane Changing
+39733,HUMAN,Unsafe Lane Changing
+39734,HUMAN,Unsafe Lane Changing
+39735,HUMAN,Unsafe Lane Changing
+39736,HUMAN,Unsafe Lane Changing
+39737,HUMAN,Unsafe Lane Changing
+39738,HUMAN,Unsafe Lane Changing
+39739,HUMAN,Unsafe Lane Changing
+39740,HUMAN,Unsafe Lane Changing
+39741,HUMAN,Unsafe Lane Changing
+39742,HUMAN,Unsafe Lane Changing
+39743,HUMAN,Unsafe Lane Changing
+39744,HUMAN,Unsafe Lane Changing
+39745,HUMAN,Unsafe Lane Changing
+39746,HUMAN,Unsafe Speed
+39747,HUMAN,Unsafe Speed
+39748,HUMAN,Unsafe Speed
+39749,HUMAN,Unsafe Speed
+39750,HUMAN,Unsafe Speed
+39751,HUMAN,Unsafe Speed
+39752,HUMAN,Unsafe Speed
+39753,HUMAN,Unsafe Speed
+39754,HUMAN,Unsafe Speed
+39755,HUMAN,Unsafe Speed
+39756,HUMAN,Unsafe Speed
+39757,HUMAN,Unsafe Speed
+39758,HUMAN,Unsafe Speed
+39759,HUMAN,Unsafe Speed
+39760,HUMAN,Unsafe Speed
+39761,HUMAN,Unsafe Speed
+39762,HUMAN,Unsafe Speed
+39763,HUMAN,Unsafe Speed
+39764,HUMAN,Unsafe Speed
+39765,HUMAN,Unsafe Speed
+39766,HUMAN,Unsafe Speed
+39767,HUMAN,Unsafe Speed
+39768,HUMAN,Unsafe Speed
+39769,HUMAN,Unsafe Speed
+39770,HUMAN,Unsafe Speed
+39771,ENVMT,View Obstructed/Limited
+39772,ENVMT,View Obstructed/Limited
+39773,ENVMT,View Obstructed/Limited
+39774,ENVMT,View Obstructed/Limited
+39775,ENVMT,View Obstructed/Limited
+39776,ENVMT,View Obstructed/Limited
+39777,ENVMT,View Obstructed/Limited
+39778,ENVMT,View Obstructed/Limited
+39779,ENVMT,View Obstructed/Limited
+39780,ENVMT,View Obstructed/Limited
+39781,HUMAN,Backing Unsafely
+39782,HUMAN,Driver Inattention/Distraction*
+39783,HUMAN,Driver Inattention/Distraction*
+39784,HUMAN,Following Too Closely
+39785,ENVMT,Not Applicable
+39786,VEHICLE,Not Applicable
+39787,HUMAN,Not Applicable
+39788,HUMAN,Not Applicable
+39789,ENVMT,Not Applicable
+39790,HUMAN,Not Applicable
+39791,VEHICLE,Other*
+39792,HUMAN,Oversized Vehicle
+39793,ENVMT,Pavement Slippery
+39794,VEHICLE,Tow Hitch Defective
+39795,HUMAN,Traffic Control Device Disregarded
+39796,HUMAN,Unsafe Lane Changing
+39797,ENVMT,View Obstructed/Limited
+39798,ENVMT,View Obstructed/Limited
+39799,ANIMAL,Animal's Action
+39800,HUMAN,Backing Unsafely
+39801,HUMAN,Driver Inattention/Distraction*
+39802,HUMAN,Failure to Yield Right-of-Way
+39803,HUMAN,Following Too Closely
+39804,HUMAN,Not Applicable
+39805,ENVMT,Not Applicable
+39806,VEHICLE,Oversized Vehicle
+39807,ENVMT,Pavement Slippery
+39808,HUMAN,Traffic Control Device Disregarded
+39809,HUMAN,Turning Improperly
+39810,HUMAN,Unsafe Lane Changing
+39811,ENVMT,View Obstructed/Limited
+39812,HUMAN,Following Too Closely
+39813,HUMAN,Reaction to Other Uninvolved Vehicle
+39814,HUMAN,Aggressive Driving/Road Rage
+39815,HUMAN,Aggressive Driving/Road Rage
+39816,ANIMAL,Animal's Action
+39817,ANIMAL,Animal's Action
+39818,ANIMAL,Animal's Action
+39819,HUMAN,Backing Unsafely
+39820,HUMAN,Backing Unsafely
+39821,HUMAN,Backing Unsafely
+39822,HUMAN,Backing Unsafely
+39823,HUMAN,Backing Unsafely
+39824,HUMAN,Driver Inattention/Distraction*
+39825,HUMAN,Driver Inattention/Distraction*
+39826,HUMAN,Driver Inattention/Distraction*
+39827,HUMAN,Driver Inattention/Distraction*
+39828,HUMAN,Driver Inattention/Distraction*
+39829,HUMAN,Driver Inattention/Distraction*
+39830,HUMAN,Driver Inexperience*
+39831,HUMAN,Driver Inexperience*
+39832,HUMAN,Failure to Yield Right-of-Way
+39833,HUMAN,Failure to Yield Right-of-Way
+39834,HUMAN,Failure to Yield Right-of-Way
+39835,HUMAN,Failure to Yield Right-of-Way
+39836,HUMAN,Failure to Yield Right-of-Way
+39837,HUMAN,Failure to Yield Right-of-Way
+39838,HUMAN,Failure to Yield Right-of-Way
+39839,HUMAN,Failure to Yield Right-of-Way
+39840,HUMAN,Failure to Yield Right-of-Way
+39841,HUMAN,Failure to Yield Right-of-Way
+39842,HUMAN,Failure to Yield Right-of-Way
+39843,HUMAN,Following Too Closely
+39844,HUMAN,Following Too Closely
+39845,HUMAN,Following Too Closely
+39846,HUMAN,Following Too Closely
+39847,HUMAN,Following Too Closely
+39848,HUMAN,Following Too Closely
+39849,HUMAN,Following Too Closely
+39850,HUMAN,Following Too Closely
+39851,HUMAN,Following Too Closely
+39852,HUMAN,Following Too Closely
+39853,HUMAN,Following Too Closely
+39854,ENVMT,Glare
+39855,ENVMT,Glare
+39856,HUMAN,Not Applicable
+39857,HUMAN,Not Applicable
+39858,HUMAN,Not Applicable
+39859,HUMAN,Not Applicable
+39860,HUMAN,Not Applicable
+39861,HUMAN,Not Applicable
+39862,ENVMT,Not Applicable
+39863,HUMAN,Not Applicable
+39864,HUMAN,Not Applicable
+39865,HUMAN,Not Applicable
+39866,VEHICLE,Oversized Vehicle
+39867,HUMAN,Passing or Lane Usage Improper
+39868,HUMAN,Passing or Lane Usage Improper
+39869,HUMAN,Passing or Lane Usage Improper
+39870,HUMAN,Passing or Lane Usage Improper
+39871,HUMAN,Passing or Lane Usage Improper
+39872,HUMAN,Passing or Lane Usage Improper
+39873,ENVMT,Pavement Slippery
+39874,ENVMT,Pavement Slippery
+39875,HUMAN,Prescription Medication
+39876,HUMAN,Reaction to Other Uninvolved Vehicle
+39877,HUMAN,Reaction to Other Uninvolved Vehicle
+39878,HUMAN,Reaction to Other Uninvolved Vehicle
+39879,VEHICLE,Steering Failure
+39880,ENVMT,Traffic Control Device Disregarded
+39881,HUMAN,Traffic Control Device Disregarded
+39882,HUMAN,Traffic Control Device Disregarded
+39883,ENVMT,Traffic Control Device Improper/Non-Working
+39884,HUMAN,Turning Improperly
+39885,HUMAN,Unsafe Lane Changing
+39886,HUMAN,Unsafe Lane Changing
+39887,HUMAN,Unsafe Speed
+39888,HUMAN,Unsafe Speed
+39889,HUMAN,Unsafe Speed
+39890,HUMAN,Aggressive Driving/Road Rage
+39891,ANIMAL,Animal's Action
+39892,ANIMAL,Animal's Action
+39893,ANIMAL,Animal's Action
+39894,HUMAN,Failure to Keep Right
+39895,HUMAN,Failure to Keep Right
+39896,HUMAN,Failure to Yield Right-of-Way
+39897,HUMAN,Passing or Lane Usage Improper
+39898,ENVMT,Pavement Slippery
+39899,ENVMT,Pavement Slippery
+39900,HUMAN,Reaction to Other Uninvolved Vehicle
+39901,HUMAN,Reaction to Other Uninvolved Vehicle
+39902,HUMAN,Traffic Control Device Disregarded
+39903,HUMAN,Unsafe Speed
+39904,HUMAN,Unsafe Speed
+39905,HUMAN,Unsafe Speed
+39906,HUMAN,Alcohol Involvement
+39907,ANIMAL,Animal's Action
+39908,VEHICLE,Brakes Defective
+39909,HUMAN,Driver Inattention/Distraction*
+39910,HUMAN,Failure to Yield Right-of-Way
+39911,HUMAN,Failure to Yield Right-of-Way
+39912,HUMAN,Failure to Yield Right-of-Way
+39913,HUMAN,Following Too Closely
+39914,HUMAN,Following Too Closely
+39915,HUMAN,Following Too Closely
+39916,HUMAN,Following Too Closely
+39917,HUMAN,Not Applicable
+39918,HUMAN,Not Applicable
+39919,HUMAN,Not Applicable
+39920,HUMAN,Not Applicable
+39921,VEHICLE,Other*
+39922,HUMAN,Passing or Lane Usage Improper
+39923,HUMAN,Passing or Lane Usage Improper
+39924,ENVMT,Pavement Slippery
+39925,HUMAN,Turning Improperly
+39926,HUMAN,Turning Improperly
+39927,HUMAN,Turning Improperly
+39928,HUMAN,Unsafe Lane Changing
+39929,HUMAN,Unsafe Lane Changing
+39930,HUMAN,Unsafe Lane Changing
+39931,HUMAN,Unsafe Speed
+39932,HUMAN,Unsafe Speed
+39933,ENVMT,View Obstructed/Limited
+39934,HUMAN,Aggressive Driving/Road Rage
+39935,ANIMAL,Animal's Action
+39936,ANIMAL,Animal's Action
+39937,ANIMAL,Animal's Action
+39938,ANIMAL,Animal's Action
+39939,ANIMAL,Animal's Action
+39940,ANIMAL,Animal's Action
+39941,ANIMAL,Animal's Action
+39942,ANIMAL,Animal's Action
+39943,ANIMAL,Animal's Action
+39944,ANIMAL,Animal's Action
+39945,ANIMAL,Animal's Action
+39946,ANIMAL,Animal's Action
+39947,ANIMAL,Animal's Action
+39948,HUMAN,Backing Unsafely
+39949,HUMAN,Backing Unsafely
+39950,HUMAN,Backing Unsafely
+39951,HUMAN,Backing Unsafely
+39952,HUMAN,Backing Unsafely
+39953,HUMAN,Backing Unsafely
+39954,VEHICLE,Brakes Defective
+39955,VEHICLE,Brakes Defective
+39956,HUMAN,Cell Phone (hand held)
+39957,HUMAN,Cell Phone (hand held)
+39958,HUMAN,Driver Inattention/Distraction*
+39959,HUMAN,Driver Inattention/Distraction*
+39960,HUMAN,Driver Inattention/Distraction*
+39961,HUMAN,Driver Inattention/Distraction*
+39962,HUMAN,Driver Inattention/Distraction*
+39963,HUMAN,Driver Inattention/Distraction*
+39964,HUMAN,Driver Inattention/Distraction*
+39965,HUMAN,Driver Inattention/Distraction*
+39966,HUMAN,Driver Inattention/Distraction*
+39967,HUMAN,Driver Inattention/Distraction*
+39968,HUMAN,Driver Inattention/Distraction*
+39969,HUMAN,Driver Inattention/Distraction*
+39970,HUMAN,Driver Inattention/Distraction*
+39971,HUMAN,Driver Inattention/Distraction*
+39972,HUMAN,Driver Inattention/Distraction*
+39973,HUMAN,Driver Inattention/Distraction*
+39974,HUMAN,Driver Inattention/Distraction*
+39975,HUMAN,Driver Inattention/Distraction*
+39976,HUMAN,Driver Inattention/Distraction*
+39977,HUMAN,Driver Inattention/Distraction*
+39978,HUMAN,Driver Inattention/Distraction*
+39979,HUMAN,Driver Inattention/Distraction*
+39980,HUMAN,Driver Inattention/Distraction*
+39981,HUMAN,Driver Inattention/Distraction*
+39982,HUMAN,Driver Inattention/Distraction*
+39983,HUMAN,Driver Inattention/Distraction*
+39984,HUMAN,Driver Inattention/Distraction*
+39985,HUMAN,Driver Inattention/Distraction*
+39986,HUMAN,Driver Inattention/Distraction*
+39987,HUMAN,Driver Inattention/Distraction*
+39988,HUMAN,Driver Inattention/Distraction*
+39989,HUMAN,Driver Inattention/Distraction*
+39990,HUMAN,Driver Inattention/Distraction*
+39991,HUMAN,Driver Inattention/Distraction*
+39992,HUMAN,Driver Inattention/Distraction*
+39993,HUMAN,Driver Inattention/Distraction*
+39994,HUMAN,Driver Inattention/Distraction*
+39995,HUMAN,Driver Inattention/Distraction*
+39996,HUMAN,Driver Inattention/Distraction*
+39997,HUMAN,Driver Inattention/Distraction*
+39998,HUMAN,Driver Inattention/Distraction*
+39999,HUMAN,Driver Inattention/Distraction*
+40000,HUMAN,Driver Inattention/Distraction*
+40001,HUMAN,Driver Inattention/Distraction*
+40002,HUMAN,Driver Inattention/Distraction*
+40003,HUMAN,Driver Inattention/Distraction*
+40004,HUMAN,Driver Inexperience*
+40005,HUMAN,Driver Inexperience*
+40006,HUMAN,Driver Inexperience*
+40007,HUMAN,Driver Inexperience*
+40008,HUMAN,Driver Inexperience*
+40009,HUMAN,Driver Inexperience*
+40010,HUMAN,Drugs (Illegal)
+40011,HUMAN,Failure to Keep Right
+40012,HUMAN,Failure to Keep Right
+40013,HUMAN,Failure to Keep Right
+40014,HUMAN,Failure to Keep Right
+40015,HUMAN,Failure to Keep Right
+40016,HUMAN,Failure to Yield Right-of-Way
+40017,HUMAN,Failure to Yield Right-of-Way
+40018,HUMAN,Failure to Yield Right-of-Way
+40019,HUMAN,Failure to Yield Right-of-Way
+40020,HUMAN,Failure to Yield Right-of-Way
+40021,HUMAN,Failure to Yield Right-of-Way
+40022,HUMAN,Failure to Yield Right-of-Way
+40023,HUMAN,Failure to Yield Right-of-Way
+40024,HUMAN,Failure to Yield Right-of-Way
+40025,HUMAN,Failure to Yield Right-of-Way
+40026,HUMAN,Failure to Yield Right-of-Way
+40027,HUMAN,Failure to Yield Right-of-Way
+40028,HUMAN,Failure to Yield Right-of-Way
+40029,HUMAN,Failure to Yield Right-of-Way
+40030,HUMAN,Failure to Yield Right-of-Way
+40031,HUMAN,Failure to Yield Right-of-Way
+40032,HUMAN,Failure to Yield Right-of-Way
+40033,HUMAN,Failure to Yield Right-of-Way
+40034,HUMAN,Failure to Yield Right-of-Way
+40035,HUMAN,Failure to Yield Right-of-Way
+40036,HUMAN,Failure to Yield Right-of-Way
+40037,HUMAN,Failure to Yield Right-of-Way
+40038,HUMAN,Failure to Yield Right-of-Way
+40039,HUMAN,Failure to Yield Right-of-Way
+40040,HUMAN,Failure to Yield Right-of-Way
+40041,HUMAN,Failure to Yield Right-of-Way
+40042,HUMAN,Failure to Yield Right-of-Way
+40043,HUMAN,Failure to Yield Right-of-Way
+40044,HUMAN,Failure to Yield Right-of-Way
+40045,HUMAN,Failure to Yield Right-of-Way
+40046,HUMAN,Failure to Yield Right-of-Way
+40047,HUMAN,Failure to Yield Right-of-Way
+40048,HUMAN,Failure to Yield Right-of-Way
+40049,HUMAN,Failure to Yield Right-of-Way
+40050,HUMAN,Failure to Yield Right-of-Way
+40051,HUMAN,Failure to Yield Right-of-Way
+40052,HUMAN,Fell Asleep
+40053,HUMAN,Fell Asleep
+40054,HUMAN,Fell Asleep
+40055,HUMAN,Fell Asleep
+40056,HUMAN,Following Too Closely
+40057,HUMAN,Following Too Closely
+40058,HUMAN,Following Too Closely
+40059,HUMAN,Following Too Closely
+40060,HUMAN,Following Too Closely
+40061,HUMAN,Following Too Closely
+40062,HUMAN,Following Too Closely
+40063,HUMAN,Following Too Closely
+40064,HUMAN,Following Too Closely
+40065,HUMAN,Following Too Closely
+40066,HUMAN,Following Too Closely
+40067,HUMAN,Following Too Closely
+40068,HUMAN,Following Too Closely
+40069,HUMAN,Following Too Closely
+40070,HUMAN,Following Too Closely
+40071,HUMAN,Following Too Closely
+40072,HUMAN,Following Too Closely
+40073,HUMAN,Following Too Closely
+40074,HUMAN,Following Too Closely
+40075,HUMAN,Following Too Closely
+40076,HUMAN,Following Too Closely
+40077,HUMAN,Following Too Closely
+40078,HUMAN,Following Too Closely
+40079,HUMAN,Following Too Closely
+40080,HUMAN,Following Too Closely
+40081,HUMAN,Following Too Closely
+40082,HUMAN,Following Too Closely
+40083,HUMAN,Following Too Closely
+40084,HUMAN,Following Too Closely
+40085,HUMAN,Following Too Closely
+40086,HUMAN,Following Too Closely
+40087,HUMAN,Following Too Closely
+40088,HUMAN,Following Too Closely
+40089,HUMAN,Following Too Closely
+40090,HUMAN,Following Too Closely
+40091,HUMAN,Following Too Closely
+40092,HUMAN,Following Too Closely
+40093,HUMAN,Following Too Closely
+40094,HUMAN,Following Too Closely
+40095,HUMAN,Following Too Closely
+40096,HUMAN,Following Too Closely
+40097,HUMAN,Following Too Closely
+40098,HUMAN,Following Too Closely
+40099,HUMAN,Following Too Closely
+40100,HUMAN,Following Too Closely
+40101,ENVMT,Glare
+40102,ENVMT,Glare
+40103,ENVMT,Glare
+40104,ENVMT,Glare
+40105,VEHICLE,Headlights Defective
+40106,HUMAN,Lost Consciousness
+40107,HUMAN,Not Applicable
+40108,HUMAN,Not Applicable
+40109,HUMAN,Not Applicable
+40110,ENVMT,Not Applicable
+40111,HUMAN,Not Applicable
+40112,HUMAN,Not Applicable
+40113,HUMAN,Not Applicable
+40114,HUMAN,Not Applicable
+40115,ENVMT,Not Applicable
+40116,ENVMT,Not Applicable
+40117,HUMAN,Not Applicable
+40118,HUMAN,Not Applicable
+40119,ENVMT,Not Applicable
+40120,HUMAN,Not Applicable
+40121,ENVMT,Not Applicable
+40122,ENVMT,Not Applicable
+40123,HUMAN,Not Applicable
+40124,HUMAN,Not Applicable
+40125,HUMAN,Not Applicable
+40126,HUMAN,Not Applicable
+40127,HUMAN,Not Applicable
+40128,ENVMT,Not Applicable
+40129,HUMAN,Not Applicable
+40130,HUMAN,Not Applicable
+40131,HUMAN,Not Applicable
+40132,HUMAN,Not Applicable
+40133,HUMAN,Not Applicable
+40134,ENVMT,Not Applicable
+40135,HUMAN,Not Applicable
+40136,HUMAN,Not Applicable
+40137,HUMAN,Not Applicable
+40138,ENVMT,Not Applicable
+40139,HUMAN,Not Applicable
+40140,HUMAN,Not Applicable
+40141,HUMAN,Not Applicable
+40142,HUMAN,Not Applicable
+40143,HUMAN,Not Applicable
+40144,HUMAN,Not Applicable
+40145,HUMAN,Not Applicable
+40146,HUMAN,Not Applicable
+40147,HUMAN,Not Applicable
+40148,HUMAN,Not Applicable
+40149,HUMAN,Not Applicable
+40150,HUMAN,Not Applicable
+40151,HUMAN,Not Applicable
+40152,HUMAN,Not Applicable
+40153,HUMAN,Obstruction/ Debris
+40154,ENVMT,Obstruction/ Debris
+40155,ENVMT,Obstruction/ Debris
+40156,HUMAN,Other
+40157,VEHICLE,Other*
+40158,VEHICLE,Other*
+40159,VEHICLE,Other*
+40160,HUMAN,Oversized Vehicle
+40161,HUMAN,Passing or Lane Usage Improper
+40162,HUMAN,Passing or Lane Usage Improper
+40163,HUMAN,Passing or Lane Usage Improper
+40164,HUMAN,Passing or Lane Usage Improper
+40165,HUMAN,Passing or Lane Usage Improper
+40166,HUMAN,Passing or Lane Usage Improper
+40167,HUMAN,Passing or Lane Usage Improper
+40168,HUMAN,Passing or Lane Usage Improper
+40169,HUMAN,Passing or Lane Usage Improper
+40170,HUMAN,Passing or Lane Usage Improper
+40171,HUMAN,Passing or Lane Usage Improper
+40172,HUMAN,Passing or Lane Usage Improper
+40173,HUMAN,Passing or Lane Usage Improper
+40174,HUMAN,Passing or Lane Usage Improper
+40175,HUMAN,Passing or Lane Usage Improper
+40176,ENVMT,Pavement Defective
+40177,ENVMT,Pavement Slippery
+40178,ENVMT,Pavement Slippery
+40179,ENVMT,Pavement Slippery
+40180,ENVMT,Pavement Slippery
+40181,ENVMT,Pavement Slippery
+40182,ENVMT,Pavement Slippery
+40183,ENVMT,Pavement Slippery
+40184,ENVMT,Pavement Slippery
+40185,ENVMT,Pavement Slippery
+40186,ENVMT,Pavement Slippery
+40187,ENVMT,Pavement Slippery
+40188,ENVMT,Pavement Slippery
+40189,ENVMT,Pavement Slippery
+40190,ENVMT,Pavement Slippery
+40191,ENVMT,Pavement Slippery
+40192,ENVMT,Pavement Slippery
+40193,ENVMT,Pavement Slippery
+40194,ENVMT,Pavement Slippery
+40195,ENVMT,Pavement Slippery
+40196,ENVMT,Pavement Slippery
+40197,ENVMT,Pavement Slippery
+40198,ENVMT,Pavement Slippery
+40199,ENVMT,Pavement Slippery
+40200,ENVMT,Pavement Slippery
+40201,ENVMT,Pavement Slippery
+40202,ENVMT,Pavement Slippery
+40203,ENVMT,Pavement Slippery
+40204,ENVMT,Pavement Slippery
+40205,ENVMT,Pavement Slippery
+40206,ENVMT,Pavement Slippery
+40207,ENVMT,Pavement Slippery
+40208,ENVMT,Pavement Slippery
+40209,HUMAN,Reaction to Other Uninvolved Vehicle
+40210,HUMAN,Reaction to Other Uninvolved Vehicle
+40211,HUMAN,Reaction to Other Uninvolved Vehicle
+40212,HUMAN,Reaction to Other Uninvolved Vehicle
+40213,HUMAN,Reaction to Other Uninvolved Vehicle
+40214,HUMAN,Reaction to Other Uninvolved Vehicle
+40215,HUMAN,Reaction to Other Uninvolved Vehicle
+40216,VEHICLE,Steering Failure
+40217,ENVMT,Traffic Control Device Disregarded
+40218,ENVMT,Traffic Control Device Disregarded
+40219,HUMAN,Traffic Control Device Disregarded
+40220,ENVMT,Traffic Control Device Disregarded
+40221,HUMAN,Traffic Control Device Disregarded
+40222,HUMAN,Traffic Control Device Disregarded
+40223,HUMAN,Traffic Control Device Disregarded
+40224,HUMAN,Traffic Control Device Disregarded
+40225,HUMAN,Traffic Control Device Disregarded
+40226,HUMAN,Traffic Control Device Disregarded
+40227,HUMAN,Traffic Control Device Disregarded
+40228,HUMAN,Traffic Control Device Disregarded
+40229,HUMAN,Traffic Control Device Disregarded
+40230,HUMAN,Traffic Control Device Disregarded
+40231,HUMAN,Traffic Control Device Disregarded
+40232,HUMAN,Traffic Control Device Disregarded
+40233,HUMAN,Traffic Control Device Disregarded
+40234,HUMAN,Traffic Control Device Disregarded
+40235,HUMAN,Traffic Control Device Disregarded
+40236,HUMAN,Traffic Control Device Disregarded
+40237,HUMAN,Traffic Control Device Disregarded
+40238,HUMAN,Traffic Control Device Disregarded
+40239,HUMAN,Traffic Control Device Disregarded
+40240,HUMAN,Traffic Control Device Disregarded
+40241,HUMAN,Traffic Control Device Disregarded
+40242,HUMAN,Turning Improperly
+40243,HUMAN,Turning Improperly
+40244,HUMAN,Turning Improperly
+40245,HUMAN,Turning Improperly
+40246,HUMAN,Turning Improperly
+40247,HUMAN,Turning Improperly
+40248,HUMAN,Turning Improperly
+40249,HUMAN,Turning Improperly
+40250,HUMAN,Turning Improperly
+40251,HUMAN,Turning Improperly
+40252,HUMAN,Turning Improperly
+40253,HUMAN,Unsafe Lane Changing
+40254,HUMAN,Unsafe Lane Changing
+40255,HUMAN,Unsafe Lane Changing
+40256,HUMAN,Unsafe Lane Changing
+40257,HUMAN,Unsafe Lane Changing
+40258,HUMAN,Unsafe Lane Changing
+40259,HUMAN,Unsafe Lane Changing
+40260,HUMAN,Unsafe Lane Changing
+40261,HUMAN,Unsafe Lane Changing
+40262,HUMAN,Unsafe Lane Changing
+40263,HUMAN,Unsafe Lane Changing
+40264,HUMAN,Unsafe Lane Changing
+40265,HUMAN,Unsafe Lane Changing
+40266,HUMAN,Unsafe Lane Changing
+40267,HUMAN,Unsafe Lane Changing
+40268,HUMAN,Unsafe Lane Changing
+40269,HUMAN,Unsafe Speed
+40270,HUMAN,Unsafe Speed
+40271,HUMAN,Unsafe Speed
+40272,HUMAN,Unsafe Speed
+40273,HUMAN,Unsafe Speed
+40274,HUMAN,Unsafe Speed
+40275,HUMAN,Unsafe Speed
+40276,HUMAN,Unsafe Speed
+40277,HUMAN,Unsafe Speed
+40278,HUMAN,Unsafe Speed
+40279,HUMAN,Unsafe Speed
+40280,HUMAN,Unsafe Speed
+40281,HUMAN,Unsafe Speed
+40282,HUMAN,Unsafe Speed
+40283,HUMAN,Unsafe Speed
+40284,HUMAN,Unsafe Speed
+40285,HUMAN,Unsafe Speed
+40286,HUMAN,Unsafe Speed
+40287,HUMAN,Unsafe Speed
+40288,HUMAN,Unsafe Speed
+40289,ENVMT,View Obstructed/Limited
+40290,ENVMT,View Obstructed/Limited
+40291,ENVMT,View Obstructed/Limited
+40292,ENVMT,View Obstructed/Limited
+40293,ENVMT,View Obstructed/Limited
+40294,HUMAN,Unsafe Speed
+40295,ANIMAL,Animal's Action
+40296,HUMAN,Backing Unsafely
+40297,HUMAN,Driver Inattention/Distraction*
+40298,HUMAN,Driver Inattention/Distraction*
+40299,HUMAN,Driver Inattention/Distraction*
+40300,HUMAN,Following Too Closely
+40301,HUMAN,Following Too Closely
+40302,ENVMT,Not Applicable
+40303,ENVMT,Not Applicable
+40304,HUMAN,Not Applicable
+40305,HUMAN,Not Applicable
+40306,HUMAN,Oversized Vehicle
+40307,HUMAN,Unsafe Lane Changing
+40308,HUMAN,Unsafe Speed
+40309,HUMAN,Alcohol Involvement
+40310,ANIMAL,Animal's Action
+40311,ANIMAL,Animal's Action
+40312,ANIMAL,Animal's Action
+40313,ANIMAL,Animal's Action
+40314,ANIMAL,Animal's Action
+40315,ANIMAL,Animal's Action
+40316,ANIMAL,Animal's Action
+40317,ANIMAL,Animal's Action
+40318,ANIMAL,Animal's Action
+40319,ANIMAL,Animal's Action
+40320,ANIMAL,Animal's Action
+40321,ANIMAL,Animal's Action
+40322,ANIMAL,Animal's Action
+40323,ANIMAL,Animal's Action
+40324,ANIMAL,Animal's Action
+40325,ANIMAL,Animal's Action
+40326,HUMAN,Backing Unsafely
+40327,HUMAN,Backing Unsafely
+40328,HUMAN,Backing Unsafely
+40329,HUMAN,Backing Unsafely
+40330,HUMAN,Backing Unsafely
+40331,VEHICLE,Brakes Defective
+40332,HUMAN,Driver Inattention/Distraction*
+40333,HUMAN,Driver Inattention/Distraction*
+40334,HUMAN,Driver Inattention/Distraction*
+40335,HUMAN,Driver Inattention/Distraction*
+40336,HUMAN,Driver Inattention/Distraction*
+40337,HUMAN,Driver Inattention/Distraction*
+40338,HUMAN,Driver Inattention/Distraction*
+40339,HUMAN,Driver Inattention/Distraction*
+40340,HUMAN,Driver Inattention/Distraction*
+40341,HUMAN,Driver Inattention/Distraction*
+40342,HUMAN,Driver Inattention/Distraction*
+40343,HUMAN,Driver Inattention/Distraction*
+40344,HUMAN,Driver Inattention/Distraction*
+40345,HUMAN,Driver Inattention/Distraction*
+40346,HUMAN,Driver Inattention/Distraction*
+40347,HUMAN,Driver Inattention/Distraction*
+40348,HUMAN,Driver Inattention/Distraction*
+40349,HUMAN,Driver Inexperience*
+40350,HUMAN,Driver Inexperience*
+40351,HUMAN,Driver Inexperience*
+40352,HUMAN,Driver Inexperience*
+40353,HUMAN,Driver Inexperience*
+40354,HUMAN,Failure to Keep Right
+40355,HUMAN,Failure to Keep Right
+40356,HUMAN,Failure to Keep Right
+40357,HUMAN,Failure to Keep Right
+40358,HUMAN,Failure to Keep Right
+40359,HUMAN,Failure to Keep Right
+40360,HUMAN,Failure to Yield Right-of-Way
+40361,HUMAN,Failure to Yield Right-of-Way
+40362,HUMAN,Failure to Yield Right-of-Way
+40363,HUMAN,Failure to Yield Right-of-Way
+40364,HUMAN,Failure to Yield Right-of-Way
+40365,HUMAN,Failure to Yield Right-of-Way
+40366,HUMAN,Failure to Yield Right-of-Way
+40367,HUMAN,Failure to Yield Right-of-Way
+40368,HUMAN,Failure to Yield Right-of-Way
+40369,HUMAN,Failure to Yield Right-of-Way
+40370,HUMAN,Failure to Yield Right-of-Way
+40371,HUMAN,Failure to Yield Right-of-Way
+40372,HUMAN,Failure to Yield Right-of-Way
+40373,HUMAN,Failure to Yield Right-of-Way
+40374,HUMAN,Fatigued/Drowsy
+40375,HUMAN,Following Too Closely
+40376,HUMAN,Following Too Closely
+40377,HUMAN,Following Too Closely
+40378,HUMAN,Following Too Closely
+40379,HUMAN,Following Too Closely
+40380,HUMAN,Following Too Closely
+40381,HUMAN,Following Too Closely
+40382,HUMAN,Following Too Closely
+40383,HUMAN,Following Too Closely
+40384,HUMAN,Following Too Closely
+40385,HUMAN,Following Too Closely
+40386,HUMAN,Following Too Closely
+40387,HUMAN,Following Too Closely
+40388,HUMAN,Following Too Closely
+40389,HUMAN,Following Too Closely
+40390,HUMAN,Following Too Closely
+40391,HUMAN,Following Too Closely
+40392,HUMAN,Following Too Closely
+40393,HUMAN,Following Too Closely
+40394,ENVMT,Glare
+40395,ENVMT,Glare
+40396,HUMAN,Not Applicable
+40397,HUMAN,Not Applicable
+40398,HUMAN,Not Applicable
+40399,HUMAN,Not Applicable
+40400,ENVMT,Not Applicable
+40401,HUMAN,Not Applicable
+40402,ENVMT,Not Applicable
+40403,HUMAN,Not Applicable
+40404,HUMAN,Not Applicable
+40405,HUMAN,Not Applicable
+40406,HUMAN,Not Applicable
+40407,HUMAN,Not Applicable
+40408,HUMAN,Not Applicable
+40409,HUMAN,Not Applicable
+40410,HUMAN,Not Applicable
+40411,HUMAN,Not Applicable
+40412,HUMAN,Not Applicable
+40413,HUMAN,Not Applicable
+40414,HUMAN,Obstruction/ Debris
+40415,ENVMT,Obstruction/ Debris
+40416,ENVMT,Obstruction/ Debris
+40417,VEHICLE,Other*
+40418,VEHICLE,Other*
+40419,HUMAN,Oversized Vehicle
+40420,HUMAN,Passing or Lane Usage Improper
+40421,HUMAN,Passing or Lane Usage Improper
+40422,HUMAN,Passing Too Closely
+40423,HUMAN,Passing Too Closely
+40424,ENVMT,Pavement Slippery
+40425,ENVMT,Pavement Slippery
+40426,ENVMT,Pavement Slippery
+40427,ENVMT,Pavement Slippery
+40428,ENVMT,Pavement Slippery
+40429,ENVMT,Pavement Slippery
+40430,ENVMT,Pavement Slippery
+40431,ENVMT,Pavement Slippery
+40432,ENVMT,Pavement Slippery
+40433,ENVMT,Pavement Slippery
+40434,ENVMT,Pavement Slippery
+40435,ENVMT,Pavement Slippery
+40436,ENVMT,Pavement Slippery
+40437,ENVMT,Pavement Slippery
+40438,ENVMT,Pavement Slippery
+40439,HUMAN,Prescription Medication
+40440,HUMAN,Reaction to Other Uninvolved Vehicle
+40441,HUMAN,Reaction to Other Uninvolved Vehicle
+40442,HUMAN,Reaction to Other Uninvolved Vehicle
+40443,HUMAN,Reaction to Other Uninvolved Vehicle
+40444,HUMAN,Reaction to Other Uninvolved Vehicle
+40445,HUMAN,Reaction to Other Uninvolved Vehicle
+40446,HUMAN,Reaction to Other Uninvolved Vehicle
+40447,VEHICLE,Tire Failure/Inadequate
+40448,VEHICLE,Tire Failure/Inadequate
+40449,HUMAN,Traffic Control Device Disregarded
+40450,HUMAN,Traffic Control Device Disregarded
+40451,HUMAN,Traffic Control Device Disregarded
+40452,HUMAN,Traffic Control Device Disregarded
+40453,HUMAN,Traffic Control Device Disregarded
+40454,HUMAN,Traffic Control Device Disregarded
+40455,HUMAN,Traffic Control Device Disregarded
+40456,ENVMT,Traffic Control Device Improper/Non-Working
+40457,HUMAN,Turning Improperly
+40458,HUMAN,Turning Improperly
+40459,HUMAN,Turning Improperly
+40460,HUMAN,Turning Improperly
+40461,HUMAN,Turning Improperly
+40462,HUMAN,Turning Improperly
+40463,HUMAN,Unsafe Lane Changing
+40464,HUMAN,Unsafe Lane Changing
+40465,HUMAN,Unsafe Lane Changing
+40466,HUMAN,Unsafe Lane Changing
+40467,HUMAN,Unsafe Lane Changing
+40468,HUMAN,Unsafe Lane Changing
+40469,HUMAN,Unsafe Lane Changing
+40470,HUMAN,Unsafe Lane Changing
+40471,HUMAN,Unsafe Lane Changing
+40472,HUMAN,Unsafe Speed
+40473,HUMAN,Unsafe Speed
+40474,HUMAN,Unsafe Speed
+40475,HUMAN,Unsafe Speed
+40476,HUMAN,Unsafe Speed
+40477,HUMAN,Unsafe Speed
+40478,HUMAN,Unsafe Speed
+40479,ENVMT,View Obstructed/Limited
+40480,ENVMT,View Obstructed/Limited
+40481,HUMAN,Alcohol Involvement
+40482,HUMAN,Driver Inattention/Distraction*
+40483,HUMAN,Failure to Yield Right-of-Way
+40484,HUMAN,Failure to Yield Right-of-Way
+40485,HUMAN,Failure to Yield Right-of-Way
+40486,HUMAN,Failure to Yield Right-of-Way
+40487,HUMAN,Failure to Yield Right-of-Way
+40488,HUMAN,Failure to Yield Right-of-Way
+40489,HUMAN,Failure to Yield Right-of-Way
+40490,HUMAN,Fatigued/Drowsy
+40491,HUMAN,Following Too Closely
+40492,HUMAN,Following Too Closely
+40493,HUMAN,Following Too Closely
+40494,ENVMT,Glare
+40495,ENVMT,Not Applicable
+40496,ENVMT,Not Applicable
+40497,HUMAN,Not Applicable
+40498,ENVMT,Obstruction/ Debris
+40499,HUMAN,Outside Car Distraction*
+40500,HUMAN,Outside Car Distraction*
+40501,ENVMT,Pavement Slippery
+40502,ENVMT,Pavement Slippery
+40503,ENVMT,Pavement Slippery
+40504,HUMAN,Pedestrian/Bicyclist Error/Confusion
+40505,HUMAN,Traffic Control Device Disregarded
+40506,HUMAN,Traffic Control Device Disregarded
+40507,HUMAN,Turning Improperly
+40508,HUMAN,Unsafe Lane Changing
+40509,HUMAN,Unsafe Speed
+40510,HUMAN,Unsafe Speed
+40511,HUMAN,Unsafe Speed
+40512,ANIMAL,Animal's Action
+40513,HUMAN,Failure to Yield Right-of-Way
+40514,HUMAN,Not Applicable
+40515,HUMAN,Passing Too Closely
+40516,ENVMT,Pavement Slippery
+40517,HUMAN,Driver Inattention/Distraction*
+40518,HUMAN,Driver Inattention/Distraction*
+40519,HUMAN,Following Too Closely
+40520,HUMAN,Not Applicable
+40521,VEHICLE,Other*
+40522,ENVMT,Pavement Slippery
+40523,HUMAN,Reaction to Other Uninvolved Vehicle
+40524,HUMAN,Unsafe Speed
+40525,HUMAN,Unsafe Speed
+40526,HUMAN,Alcohol Involvement
+40527,ANIMAL,Animal's Action
+40528,ANIMAL,Animal's Action
+40529,ANIMAL,Animal's Action
+40530,ANIMAL,Animal's Action
+40531,ANIMAL,Animal's Action
+40532,ANIMAL,Animal's Action
+40533,ANIMAL,Animal's Action
+40534,ANIMAL,Animal's Action
+40535,ANIMAL,Animal's Action
+40536,ANIMAL,Animal's Action
+40537,HUMAN,Backing Unsafely
+40538,HUMAN,Backing Unsafely
+40539,HUMAN,Backing Unsafely
+40540,HUMAN,Backing Unsafely
+40541,HUMAN,Backing Unsafely
+40542,HUMAN,Backing Unsafely
+40543,HUMAN,Cell Phone (hand held)
+40544,HUMAN,Cell Phone (hand held)
+40545,HUMAN,Driver Inattention/Distraction*
+40546,HUMAN,Driver Inattention/Distraction*
+40547,HUMAN,Driver Inattention/Distraction*
+40548,HUMAN,Driver Inattention/Distraction*
+40549,HUMAN,Driver Inattention/Distraction*
+40550,HUMAN,Driver Inattention/Distraction*
+40551,HUMAN,Driver Inattention/Distraction*
+40552,HUMAN,Driver Inattention/Distraction*
+40553,HUMAN,Driver Inattention/Distraction*
+40554,HUMAN,Driver Inattention/Distraction*
+40555,HUMAN,Driver Inattention/Distraction*
+40556,HUMAN,Driver Inattention/Distraction*
+40557,HUMAN,Driver Inattention/Distraction*
+40558,HUMAN,Driver Inattention/Distraction*
+40559,HUMAN,Driver Inattention/Distraction*
+40560,HUMAN,Driver Inattention/Distraction*
+40561,HUMAN,Driver Inattention/Distraction*
+40562,HUMAN,Driver Inattention/Distraction*
+40563,HUMAN,Driver Inattention/Distraction*
+40564,HUMAN,Driver Inattention/Distraction*
+40565,HUMAN,Driver Inattention/Distraction*
+40566,HUMAN,Driver Inexperience*
+40567,HUMAN,Failure to Keep Right
+40568,HUMAN,Failure to Keep Right
+40569,HUMAN,Failure to Keep Right
+40570,HUMAN,Failure to Keep Right
+40571,HUMAN,Failure to Keep Right
+40572,HUMAN,Failure to Yield Right-of-Way
+40573,HUMAN,Failure to Yield Right-of-Way
+40574,HUMAN,Failure to Yield Right-of-Way
+40575,HUMAN,Failure to Yield Right-of-Way
+40576,HUMAN,Failure to Yield Right-of-Way
+40577,HUMAN,Failure to Yield Right-of-Way
+40578,HUMAN,Failure to Yield Right-of-Way
+40579,HUMAN,Failure to Yield Right-of-Way
+40580,HUMAN,Failure to Yield Right-of-Way
+40581,HUMAN,Failure to Yield Right-of-Way
+40582,HUMAN,Failure to Yield Right-of-Way
+40583,HUMAN,Failure to Yield Right-of-Way
+40584,HUMAN,Failure to Yield Right-of-Way
+40585,HUMAN,Failure to Yield Right-of-Way
+40586,HUMAN,Failure to Yield Right-of-Way
+40587,HUMAN,Failure to Yield Right-of-Way
+40588,HUMAN,Fatigued/Drowsy
+40589,HUMAN,Fell Asleep
+40590,HUMAN,Fell Asleep
+40591,HUMAN,Following Too Closely
+40592,HUMAN,Following Too Closely
+40593,HUMAN,Following Too Closely
+40594,HUMAN,Following Too Closely
+40595,HUMAN,Following Too Closely
+40596,HUMAN,Following Too Closely
+40597,HUMAN,Following Too Closely
+40598,HUMAN,Following Too Closely
+40599,HUMAN,Following Too Closely
+40600,HUMAN,Following Too Closely
+40601,HUMAN,Following Too Closely
+40602,HUMAN,Following Too Closely
+40603,HUMAN,Following Too Closely
+40604,HUMAN,Following Too Closely
+40605,HUMAN,Following Too Closely
+40606,HUMAN,Following Too Closely
+40607,HUMAN,Following Too Closely
+40608,HUMAN,Following Too Closely
+40609,HUMAN,Following Too Closely
+40610,HUMAN,Following Too Closely
+40611,HUMAN,Following Too Closely
+40612,HUMAN,Following Too Closely
+40613,HUMAN,Following Too Closely
+40614,HUMAN,Lost Consciousness
+40615,ENVMT,Not Applicable
+40616,HUMAN,Not Applicable
+40617,ENVMT,Not Applicable
+40618,HUMAN,Not Applicable
+40619,ENVMT,Not Applicable
+40620,ENVMT,Not Applicable
+40621,HUMAN,Not Applicable
+40622,HUMAN,Not Applicable
+40623,HUMAN,Not Applicable
+40624,HUMAN,Not Applicable
+40625,HUMAN,Not Applicable
+40626,HUMAN,Not Applicable
+40627,VEHICLE,Not Applicable
+40628,HUMAN,Not Applicable
+40629,HUMAN,Not Applicable
+40630,HUMAN,Not Applicable
+40631,HUMAN,Not Applicable
+40632,HUMAN,Not Applicable
+40633,HUMAN,Not Applicable
+40634,HUMAN,Not Applicable
+40635,HUMAN,Not Applicable
+40636,HUMAN,Not Applicable
+40637,HUMAN,Not Applicable
+40638,HUMAN,Not Applicable
+40639,HUMAN,Obstruction/ Debris
+40640,ENVMT,Obstruction/ Debris
+40641,HUMAN,Obstruction/ Debris
+40642,HUMAN,Other Electronic Device*
+40643,VEHICLE,Other*
+40644,VEHICLE,Other*
+40645,HUMAN,Outside Car Distraction*
+40646,HUMAN,Oversized Vehicle
+40647,ENVMT,Oversized Vehicle
+40648,HUMAN,Passing or Lane Usage Improper
+40649,HUMAN,Passing or Lane Usage Improper
+40650,HUMAN,Passing or Lane Usage Improper
+40651,HUMAN,Passing or Lane Usage Improper
+40652,HUMAN,Passing or Lane Usage Improper
+40653,HUMAN,Passing or Lane Usage Improper
+40654,HUMAN,Passing or Lane Usage Improper
+40655,HUMAN,Passing or Lane Usage Improper
+40656,ENVMT,Pavement Slippery
+40657,ENVMT,Pavement Slippery
+40658,ENVMT,Pavement Slippery
+40659,ENVMT,Pavement Slippery
+40660,ENVMT,Pavement Slippery
+40661,ENVMT,Pavement Slippery
+40662,ENVMT,Pavement Slippery
+40663,ENVMT,Pavement Slippery
+40664,ENVMT,Pavement Slippery
+40665,ENVMT,Pavement Slippery
+40666,ENVMT,Pavement Slippery
+40667,ENVMT,Pavement Slippery
+40668,ENVMT,Pavement Slippery
+40669,HUMAN,Pedestrian/Bicyclist Error/Confusion
+40670,HUMAN,Reaction to Other Uninvolved Vehicle
+40671,HUMAN,Reaction to Other Uninvolved Vehicle
+40672,HUMAN,Reaction to Other Uninvolved Vehicle
+40673,HUMAN,Reaction to Other Uninvolved Vehicle
+40674,HUMAN,Reaction to Other Uninvolved Vehicle
+40675,VEHICLE,Steering Failure
+40676,VEHICLE,Steering Failure
+40677,ENVMT,Traffic Control Device Disregarded
+40678,ENVMT,Traffic Control Device Disregarded
+40679,HUMAN,Traffic Control Device Disregarded
+40680,HUMAN,Traffic Control Device Disregarded
+40681,HUMAN,Traffic Control Device Disregarded
+40682,HUMAN,Turning Improperly
+40683,HUMAN,Turning Improperly
+40684,HUMAN,Unsafe Lane Changing
+40685,HUMAN,Unsafe Lane Changing
+40686,HUMAN,Unsafe Speed
+40687,HUMAN,Unsafe Speed
+40688,HUMAN,Unsafe Speed
+40689,HUMAN,Unsafe Speed
+40690,HUMAN,Unsafe Speed
+40691,HUMAN,Unsafe Speed
+40692,HUMAN,Unsafe Speed
+40693,ENVMT,View Obstructed/Limited
+40694,ENVMT,View Obstructed/Limited
+40695,ENVMT,View Obstructed/Limited
+40696,ENVMT,View Obstructed/Limited
+40697,ENVMT,View Obstructed/Limited
+40698,ANIMAL,Animal's Action
+40699,ANIMAL,Animal's Action
+40700,ANIMAL,Animal's Action
+40701,ANIMAL,Animal's Action
+40702,HUMAN,Backing Unsafely
+40703,HUMAN,Backing Unsafely
+40704,HUMAN,Backing Unsafely
+40705,HUMAN,Backing Unsafely
+40706,HUMAN,Driver Inattention/Distraction*
+40707,HUMAN,Driver Inattention/Distraction*
+40708,HUMAN,Driver Inattention/Distraction*
+40709,HUMAN,Driver Inattention/Distraction*
+40710,HUMAN,Driver Inattention/Distraction*
+40711,HUMAN,Failure to Yield Right-of-Way
+40712,HUMAN,Failure to Yield Right-of-Way
+40713,HUMAN,Failure to Yield Right-of-Way
+40714,HUMAN,Failure to Yield Right-of-Way
+40715,HUMAN,Failure to Yield Right-of-Way
+40716,HUMAN,Failure to Yield Right-of-Way
+40717,HUMAN,Fell Asleep
+40718,HUMAN,Following Too Closely
+40719,HUMAN,Following Too Closely
+40720,HUMAN,Following Too Closely
+40721,HUMAN,Following Too Closely
+40722,HUMAN,Following Too Closely
+40723,HUMAN,Following Too Closely
+40724,HUMAN,Following Too Closely
+40725,HUMAN,Following Too Closely
+40726,HUMAN,Following Too Closely
+40727,HUMAN,Following Too Closely
+40728,HUMAN,Following Too Closely
+40729,ENVMT,Glare
+40730,HUMAN,Illness
+40731,HUMAN,Not Applicable
+40732,HUMAN,Not Applicable
+40733,HUMAN,Not Applicable
+40734,HUMAN,Not Applicable
+40735,HUMAN,Not Applicable
+40736,ENVMT,Not Applicable
+40737,ENVMT,Not Applicable
+40738,HUMAN,Not Applicable
+40739,HUMAN,Not Applicable
+40740,HUMAN,Not Applicable
+40741,HUMAN,Not Applicable
+40742,HUMAN,Not Applicable
+40743,HUMAN,Not Applicable
+40744,HUMAN,Not Applicable
+40745,HUMAN,Not Applicable
+40746,HUMAN,Not Applicable
+40747,HUMAN,Not Applicable
+40748,HUMAN,Obstruction/ Debris
+40749,VEHICLE,Other*
+40750,VEHICLE,Other*
+40751,HUMAN,Passenger Distraction
+40752,HUMAN,Passing or Lane Usage Improper
+40753,HUMAN,Passing or Lane Usage Improper
+40754,HUMAN,Passing or Lane Usage Improper
+40755,ENVMT,Pavement Slippery
+40756,ENVMT,Pavement Slippery
+40757,ENVMT,Pavement Slippery
+40758,ENVMT,Pavement Slippery
+40759,ENVMT,Pavement Slippery
+40760,ENVMT,Pavement Slippery
+40761,ENVMT,Pavement Slippery
+40762,ENVMT,Pavement Slippery
+40763,ENVMT,Pavement Slippery
+40764,ENVMT,Pavement Slippery
+40765,ENVMT,Pavement Slippery
+40766,HUMAN,Prescription Medication
+40767,HUMAN,Reaction to Other Uninvolved Vehicle
+40768,HUMAN,Reaction to Other Uninvolved Vehicle
+40769,VEHICLE,Tire Failure/Inadequate
+40770,HUMAN,Traffic Control Device Disregarded
+40771,HUMAN,Traffic Control Device Disregarded
+40772,HUMAN,Traffic Control Device Disregarded
+40773,HUMAN,Traffic Control Device Disregarded
+40774,HUMAN,Turning Improperly
+40775,HUMAN,Turning Improperly
+40776,HUMAN,Turning Improperly
+40777,HUMAN,Turning Improperly
+40778,HUMAN,Turning Improperly
+40779,HUMAN,Turning Improperly
+40780,HUMAN,Turning Improperly
+40781,HUMAN,Turning Improperly
+40782,HUMAN,Unsafe Lane Changing
+40783,HUMAN,Unsafe Lane Changing
+40784,HUMAN,Unsafe Lane Changing
+40785,HUMAN,Unsafe Speed
+40786,HUMAN,Unsafe Speed
+40787,ENVMT,View Obstructed/Limited
+40788,ENVMT,View Obstructed/Limited
+40789,HUMAN,Driver Inattention/Distraction*
+40790,HUMAN,Failure to Yield Right-of-Way
+40791,HUMAN,Failure to Yield Right-of-Way
+40792,HUMAN,Following Too Closely
+40793,HUMAN,Following Too Closely
+40794,HUMAN,Not Applicable
+40795,HUMAN,Not Applicable
+40796,HUMAN,Passing or Lane Usage Improper
+40797,ENVMT,Pavement Slippery
+40798,ENVMT,Pavement Slippery
+40799,HUMAN,Pedestrian/Bicyclist Error/Confusion
+40800,HUMAN,Traffic Control Device Disregarded
+40801,HUMAN,Turning Improperly
+40802,HUMAN,Backing Unsafely
+40803,HUMAN,Following Too Closely
+40804,HUMAN,Not Applicable
+40805,HUMAN,Backing Unsafely
+40806,HUMAN,Driver Inattention/Distraction*
+40807,HUMAN,Driver Inattention/Distraction*
+40808,HUMAN,Driver Inattention/Distraction*
+40809,HUMAN,Driver Inattention/Distraction*
+40810,HUMAN,Driver Inattention/Distraction*
+40811,HUMAN,Driver Inattention/Distraction*
+40812,HUMAN,Driver Inattention/Distraction*
+40813,HUMAN,Driver Inattention/Distraction*
+40814,HUMAN,Failure to Keep Right
+40815,HUMAN,Failure to Yield Right-of-Way
+40816,HUMAN,Failure to Yield Right-of-Way
+40817,HUMAN,Failure to Yield Right-of-Way
+40818,HUMAN,Failure to Yield Right-of-Way
+40819,HUMAN,Failure to Yield Right-of-Way
+40820,HUMAN,Following Too Closely
+40821,HUMAN,Following Too Closely
+40822,HUMAN,Following Too Closely
+40823,HUMAN,Following Too Closely
+40824,HUMAN,Following Too Closely
+40825,HUMAN,Following Too Closely
+40826,HUMAN,Following Too Closely
+40827,HUMAN,Illness
+40828,ENVMT,Not Applicable
+40829,HUMAN,Not Applicable
+40830,HUMAN,Not Applicable
+40831,ENVMT,Not Applicable
+40832,HUMAN,Not Applicable
+40833,ENVMT,Obstruction/ Debris
+40834,HUMAN,Outside Car Distraction*
+40835,HUMAN,Passing or Lane Usage Improper
+40836,ENVMT,Pavement Slippery
+40837,ENVMT,Pavement Slippery
+40838,ENVMT,Pavement Slippery
+40839,VEHICLE,Steering Failure
+40840,HUMAN,Turning Improperly
+40841,HUMAN,Turning Improperly
+40842,ANIMAL,Animal's Action
+40843,ANIMAL,Animal's Action
+40844,HUMAN,Backing Unsafely
+40845,HUMAN,Driver Inattention/Distraction*
+40846,HUMAN,Driver Inattention/Distraction*
+40847,HUMAN,Driver Inattention/Distraction*
+40848,HUMAN,Driver Inattention/Distraction*
+40849,HUMAN,Driver Inexperience*
+40850,HUMAN,Driver Inexperience*
+40851,HUMAN,Failure to Keep Right
+40852,HUMAN,Failure to Yield Right-of-Way
+40853,HUMAN,Following Too Closely
+40854,HUMAN,Following Too Closely
+40855,HUMAN,Following Too Closely
+40856,HUMAN,Following Too Closely
+40857,HUMAN,Following Too Closely
+40858,HUMAN,Following Too Closely
+40859,ENVMT,Not Applicable
+40860,HUMAN,Not Applicable
+40861,HUMAN,Not Applicable
+40862,HUMAN,Not Applicable
+40863,HUMAN,Not Applicable
+40864,VEHICLE,Other*
+40865,HUMAN,Passenger Distraction
+40866,HUMAN,Passing or Lane Usage Improper
+40867,ENVMT,Pavement Slippery
+40868,ENVMT,Pavement Slippery
+40869,HUMAN,Reaction to Other Uninvolved Vehicle
+40870,HUMAN,Unsafe Lane Changing
+40871,HUMAN,Unsafe Lane Changing
+40872,HUMAN,Unsafe Lane Changing
+40873,HUMAN,Unsafe Speed
+40874,HUMAN,Unsafe Speed
+40875,HUMAN,Backing Unsafely
+40876,HUMAN,Driver Inattention/Distraction*
+40877,HUMAN,Driver Inattention/Distraction*
+40878,HUMAN,Driver Inattention/Distraction*
+40879,HUMAN,Driver Inattention/Distraction*
+40880,HUMAN,Failure to Yield Right-of-Way
+40881,HUMAN,Following Too Closely
+40882,HUMAN,Not Applicable
+40883,ENVMT,Not Applicable
+40884,VEHICLE,Other*
+40885,ENVMT,Pavement Slippery
+40886,HUMAN,Traffic Control Device Disregarded
+40887,HUMAN,Turning Improperly
+40888,HUMAN,Unsafe Lane Changing
+40889,ANIMAL,Animal's Action
+40890,HUMAN,Failure to Yield Right-of-Way
+40891,HUMAN,Unsafe Lane Changing
+40892,ANIMAL,Animal's Action
+40893,ANIMAL,Animal's Action
+40894,HUMAN,Backing Unsafely
+40895,HUMAN,Driver Inattention/Distraction*
+40896,HUMAN,Driver Inattention/Distraction*
+40897,HUMAN,Driver Inattention/Distraction*
+40898,HUMAN,Driver Inattention/Distraction*
+40899,HUMAN,Driver Inattention/Distraction*
+40900,HUMAN,Driver Inexperience*
+40901,HUMAN,Driver Inexperience*
+40902,HUMAN,Failure to Keep Right
+40903,HUMAN,Failure to Yield Right-of-Way
+40904,HUMAN,Failure to Yield Right-of-Way
+40905,HUMAN,Failure to Yield Right-of-Way
+40906,HUMAN,Failure to Yield Right-of-Way
+40907,HUMAN,Failure to Yield Right-of-Way
+40908,HUMAN,Following Too Closely
+40909,HUMAN,Following Too Closely
+40910,HUMAN,Following Too Closely
+40911,HUMAN,Following Too Closely
+40912,HUMAN,Following Too Closely
+40913,HUMAN,Following Too Closely
+40914,HUMAN,Following Too Closely
+40915,HUMAN,Following Too Closely
+40916,HUMAN,Following Too Closely
+40917,ENVMT,Glare
+40918,HUMAN,Lost Consciousness
+40919,ENVMT,Not Applicable
+40920,HUMAN,Not Applicable
+40921,HUMAN,Not Applicable
+40922,HUMAN,Not Applicable
+40923,HUMAN,Not Applicable
+40924,HUMAN,Not Applicable
+40925,VEHICLE,Other*
+40926,VEHICLE,Other*
+40927,HUMAN,Passing or Lane Usage Improper
+40928,HUMAN,Passing or Lane Usage Improper
+40929,HUMAN,Passing or Lane Usage Improper
+40930,ENVMT,Pavement Slippery
+40931,ENVMT,Pavement Slippery
+40932,ENVMT,Pavement Slippery
+40933,ENVMT,Pavement Slippery
+40934,ENVMT,Pavement Slippery
+40935,ENVMT,Pavement Slippery
+40936,ENVMT,Pavement Slippery
+40937,ENVMT,Pavement Slippery
+40938,ENVMT,Pavement Slippery
+40939,HUMAN,Reaction to Other Uninvolved Vehicle
+40940,HUMAN,Reaction to Other Uninvolved Vehicle
+40941,HUMAN,Traffic Control Device Disregarded
+40942,HUMAN,Traffic Control Device Disregarded
+40943,HUMAN,Traffic Control Device Disregarded
+40944,HUMAN,Turning Improperly
+40945,HUMAN,Unsafe Speed
+40946,HUMAN,Unsafe Speed
+40947,ENVMT,View Obstructed/Limited
+40948,ENVMT,View Obstructed/Limited
+40949,HUMAN,Passing or Lane Usage Improper
+40950,ANIMAL,Animal's Action
+40951,HUMAN,Backing Unsafely
+40952,HUMAN,Cell Phone (hands-free)
+40953,HUMAN,Driver Inattention/Distraction*
+40954,HUMAN,Driver Inattention/Distraction*
+40955,HUMAN,Driver Inattention/Distraction*
+40956,HUMAN,Driver Inattention/Distraction*
+40957,HUMAN,Driver Inattention/Distraction*
+40958,HUMAN,Failure to Yield Right-of-Way
+40959,HUMAN,Failure to Yield Right-of-Way
+40960,HUMAN,Following Too Closely
+40961,HUMAN,Following Too Closely
+40962,ENVMT,Glare
+40963,HUMAN,Illness
+40964,ENVMT,Not Applicable
+40965,ENVMT,Not Applicable
+40966,HUMAN,Not Applicable
+40967,ENVMT,Not Applicable
+40968,HUMAN,Oversized Vehicle
+40969,ENVMT,Pavement Slippery
+40970,ENVMT,Pavement Slippery
+40971,ENVMT,Pavement Slippery
+40972,ENVMT,Pavement Slippery
+40973,HUMAN,Reaction to Other Uninvolved Vehicle
+40974,HUMAN,Reaction to Other Uninvolved Vehicle
+40975,HUMAN,Unsafe Lane Changing
+40976,HUMAN,Unsafe Lane Changing
+40977,HUMAN,Unsafe Speed
+40978,VEHICLE,Obstruction/ Debris
+40979,ENVMT,Oversized Vehicle
+40980,HUMAN,Passing or Lane Usage Improper
+40981,ENVMT,Pavement Slippery
+40982,HUMAN,Unsafe Lane Changing
+40983,ANIMAL,Animal's Action
+40984,ANIMAL,Animal's Action
+40985,HUMAN,Driver Inattention/Distraction*
+40986,HUMAN,Driver Inattention/Distraction*
+40987,HUMAN,Driver Inattention/Distraction*
+40988,HUMAN,Driver Inexperience*
+40989,HUMAN,Failure to Yield Right-of-Way
+40990,HUMAN,Failure to Yield Right-of-Way
+40991,HUMAN,Following Too Closely
+40992,HUMAN,Following Too Closely
+40993,HUMAN,Following Too Closely
+40994,ENVMT,Not Applicable
+40995,ENVMT,Not Applicable
+40996,HUMAN,Not Applicable
+40997,HUMAN,Not Applicable
+40998,ENVMT,Not Applicable
+40999,HUMAN,Not Applicable
+41000,HUMAN,Not Applicable
+41001,HUMAN,Not Applicable
+41002,ENVMT,Obstruction/ Debris
+41003,VEHICLE,Other*
+41004,ENVMT,Pavement Slippery
+41005,ENVMT,Pavement Slippery
+41006,ENVMT,Pavement Slippery
+41007,ENVMT,Pavement Slippery
+41008,HUMAN,Physical Disability
+41009,HUMAN,Reaction to Other Uninvolved Vehicle
+41010,ENVMT,Traffic Control Device Disregarded
+41011,HUMAN,Traffic Control Device Disregarded
+41012,HUMAN,Traffic Control Device Disregarded
+41013,HUMAN,Unsafe Lane Changing
+41014,HUMAN,Unsafe Lane Changing
+41015,HUMAN,Unsafe Speed
+41016,HUMAN,Unsafe Speed
+41017,HUMAN,Unsafe Speed
+41018,HUMAN,Unsafe Speed
+41019,HUMAN,Unsafe Speed
+41020,HUMAN,Alcohol Involvement
+41021,ANIMAL,Animal's Action
+41022,ANIMAL,Animal's Action
+41023,ANIMAL,Animal's Action
+41024,HUMAN,Driver Inattention/Distraction*
+41025,HUMAN,Driver Inattention/Distraction*
+41026,HUMAN,Driver Inexperience*
+41027,HUMAN,Failure to Yield Right-of-Way
+41028,HUMAN,Failure to Yield Right-of-Way
+41029,HUMAN,Following Too Closely
+41030,HUMAN,Following Too Closely
+41031,ENVMT,Not Applicable
+41032,ENVMT,Not Applicable
+41033,HUMAN,Obstruction/ Debris
+41034,HUMAN,Oversized Vehicle
+41035,HUMAN,Passing or Lane Usage Improper
+41036,HUMAN,Passing or Lane Usage Improper
+41037,HUMAN,Passing or Lane Usage Improper
+41038,ENVMT,Pavement Slippery
+41039,ENVMT,Pavement Slippery
+41040,ENVMT,Pavement Slippery
+41041,ENVMT,Pavement Slippery
+41042,ENVMT,Pavement Slippery
+41043,HUMAN,Turning Improperly
+41044,HUMAN,Unsafe Speed
+41045,HUMAN,Unsafe Speed
+41046,ENVMT,View Obstructed/Limited
+41047,HUMAN,Aggressive Driving/Road Rage
+41048,HUMAN,Alcohol Involvement
+41049,HUMAN,Alcohol Involvement
+41050,HUMAN,Alcohol Involvement
+41051,HUMAN,Alcohol Involvement
+41052,ANIMAL,Animal's Action
+41053,ANIMAL,Animal's Action
+41054,ANIMAL,Animal's Action
+41055,ANIMAL,Animal's Action
+41056,ANIMAL,Animal's Action
+41057,ANIMAL,Animal's Action
+41058,ANIMAL,Animal's Action
+41059,ANIMAL,Animal's Action
+41060,ANIMAL,Animal's Action
+41061,ANIMAL,Animal's Action
+41062,ANIMAL,Animal's Action
+41063,ANIMAL,Animal's Action
+41064,ANIMAL,Animal's Action
+41065,ANIMAL,Animal's Action
+41066,HUMAN,Backing Unsafely
+41067,HUMAN,Backing Unsafely
+41068,HUMAN,Backing Unsafely
+41069,HUMAN,Backing Unsafely
+41070,HUMAN,Backing Unsafely
+41071,VEHICLE,Brakes Defective
+41072,VEHICLE,Brakes Defective
+41073,HUMAN,Driver Inattention/Distraction*
+41074,HUMAN,Driver Inattention/Distraction*
+41075,HUMAN,Driver Inattention/Distraction*
+41076,HUMAN,Driver Inattention/Distraction*
+41077,HUMAN,Driver Inattention/Distraction*
+41078,HUMAN,Driver Inattention/Distraction*
+41079,HUMAN,Driver Inattention/Distraction*
+41080,HUMAN,Driver Inattention/Distraction*
+41081,HUMAN,Driver Inattention/Distraction*
+41082,HUMAN,Driver Inattention/Distraction*
+41083,HUMAN,Driver Inattention/Distraction*
+41084,HUMAN,Driver Inattention/Distraction*
+41085,HUMAN,Driver Inattention/Distraction*
+41086,HUMAN,Driver Inattention/Distraction*
+41087,HUMAN,Driver Inattention/Distraction*
+41088,HUMAN,Driver Inattention/Distraction*
+41089,HUMAN,Driver Inattention/Distraction*
+41090,HUMAN,Driver Inattention/Distraction*
+41091,HUMAN,Driver Inattention/Distraction*
+41092,HUMAN,Driver Inattention/Distraction*
+41093,HUMAN,Driver Inattention/Distraction*
+41094,HUMAN,Driver Inattention/Distraction*
+41095,HUMAN,Driver Inattention/Distraction*
+41096,HUMAN,Driver Inattention/Distraction*
+41097,HUMAN,Driver Inattention/Distraction*
+41098,HUMAN,Driver Inattention/Distraction*
+41099,HUMAN,Driver Inattention/Distraction*
+41100,HUMAN,Driver Inattention/Distraction*
+41101,HUMAN,Driver Inattention/Distraction*
+41102,HUMAN,Driver Inattention/Distraction*
+41103,HUMAN,Driver Inexperience*
+41104,HUMAN,Driver Inexperience*
+41105,HUMAN,Driver Inexperience*
+41106,HUMAN,Driver Inexperience*
+41107,HUMAN,Driver Inexperience*
+41108,HUMAN,Driver Inexperience*
+41109,VEHICLE,Driverless/Runaway Vehicle
+41110,HUMAN,Drugs (Illegal)
+41111,HUMAN,Failure to Keep Right
+41112,HUMAN,Failure to Keep Right
+41113,HUMAN,Failure to Keep Right
+41114,HUMAN,Failure to Keep Right
+41115,HUMAN,Failure to Keep Right
+41116,HUMAN,Failure to Keep Right
+41117,HUMAN,Failure to Yield Right-of-Way
+41118,HUMAN,Failure to Yield Right-of-Way
+41119,HUMAN,Failure to Yield Right-of-Way
+41120,HUMAN,Failure to Yield Right-of-Way
+41121,HUMAN,Failure to Yield Right-of-Way
+41122,HUMAN,Failure to Yield Right-of-Way
+41123,HUMAN,Failure to Yield Right-of-Way
+41124,HUMAN,Failure to Yield Right-of-Way
+41125,HUMAN,Failure to Yield Right-of-Way
+41126,HUMAN,Failure to Yield Right-of-Way
+41127,HUMAN,Failure to Yield Right-of-Way
+41128,HUMAN,Failure to Yield Right-of-Way
+41129,HUMAN,Failure to Yield Right-of-Way
+41130,HUMAN,Failure to Yield Right-of-Way
+41131,HUMAN,Failure to Yield Right-of-Way
+41132,HUMAN,Failure to Yield Right-of-Way
+41133,HUMAN,Failure to Yield Right-of-Way
+41134,HUMAN,Failure to Yield Right-of-Way
+41135,HUMAN,Failure to Yield Right-of-Way
+41136,HUMAN,Failure to Yield Right-of-Way
+41137,HUMAN,Failure to Yield Right-of-Way
+41138,HUMAN,Failure to Yield Right-of-Way
+41139,HUMAN,Fatigued/Drowsy
+41140,HUMAN,Fell Asleep
+41141,HUMAN,Fell Asleep
+41142,HUMAN,Fell Asleep
+41143,HUMAN,Following Too Closely
+41144,HUMAN,Following Too Closely
+41145,HUMAN,Following Too Closely
+41146,HUMAN,Following Too Closely
+41147,HUMAN,Following Too Closely
+41148,HUMAN,Following Too Closely
+41149,HUMAN,Following Too Closely
+41150,HUMAN,Following Too Closely
+41151,HUMAN,Following Too Closely
+41152,HUMAN,Following Too Closely
+41153,HUMAN,Following Too Closely
+41154,HUMAN,Following Too Closely
+41155,HUMAN,Following Too Closely
+41156,HUMAN,Following Too Closely
+41157,HUMAN,Following Too Closely
+41158,HUMAN,Following Too Closely
+41159,HUMAN,Following Too Closely
+41160,HUMAN,Following Too Closely
+41161,HUMAN,Following Too Closely
+41162,HUMAN,Following Too Closely
+41163,HUMAN,Following Too Closely
+41164,HUMAN,Following Too Closely
+41165,HUMAN,Following Too Closely
+41166,HUMAN,Following Too Closely
+41167,HUMAN,Following Too Closely
+41168,HUMAN,Following Too Closely
+41169,HUMAN,Following Too Closely
+41170,HUMAN,Following Too Closely
+41171,HUMAN,Following Too Closely
+41172,HUMAN,Following Too Closely
+41173,HUMAN,Following Too Closely
+41174,HUMAN,Following Too Closely
+41175,HUMAN,Following Too Closely
+41176,HUMAN,Following Too Closely
+41177,HUMAN,Following Too Closely
+41178,HUMAN,Following Too Closely
+41179,HUMAN,Following Too Closely
+41180,ENVMT,Glare
+41181,ENVMT,Glare
+41182,HUMAN,Illness
+41183,HUMAN,Not Applicable
+41184,ENVMT,Not Applicable
+41185,HUMAN,Not Applicable
+41186,HUMAN,Not Applicable
+41187,HUMAN,Not Applicable
+41188,ENVMT,Not Applicable
+41189,HUMAN,Not Applicable
+41190,ENVMT,Not Applicable
+41191,ENVMT,Not Applicable
+41192,HUMAN,Not Applicable
+41193,HUMAN,Not Applicable
+41194,ENVMT,Not Applicable
+41195,ENVMT,Not Applicable
+41196,HUMAN,Not Applicable
+41197,HUMAN,Not Applicable
+41198,HUMAN,Not Applicable
+41199,ENVMT,Not Applicable
+41200,HUMAN,Not Applicable
+41201,ENVMT,Not Applicable
+41202,HUMAN,Not Applicable
+41203,ENVMT,Not Applicable
+41204,ENVMT,Not Applicable
+41205,ENVMT,Not Applicable
+41206,HUMAN,Not Applicable
+41207,HUMAN,Not Applicable
+41208,HUMAN,Not Applicable
+41209,HUMAN,Not Applicable
+41210,HUMAN,Not Applicable
+41211,HUMAN,Not Applicable
+41212,HUMAN,Not Applicable
+41213,HUMAN,Not Applicable
+41214,HUMAN,Not Applicable
+41215,HUMAN,Not Applicable
+41216,HUMAN,Not Applicable
+41217,HUMAN,Not Applicable
+41218,HUMAN,Not Applicable
+41219,ENVMT,Obstruction/ Debris
+41220,ENVMT,Obstruction/ Debris
+41221,HUMAN,Other Electronic Device*
+41222,VEHICLE,Other*
+41223,HUMAN,Outside Car Distraction*
+41224,HUMAN,Outside Car Distraction*
+41225,HUMAN,Outside Car Distraction*
+41226,HUMAN,Outside Car Distraction*
+41227,HUMAN,Oversized Vehicle
+41228,HUMAN,Passing or Lane Usage Improper
+41229,HUMAN,Passing or Lane Usage Improper
+41230,HUMAN,Passing or Lane Usage Improper
+41231,HUMAN,Passing or Lane Usage Improper
+41232,HUMAN,Passing or Lane Usage Improper
+41233,HUMAN,Passing or Lane Usage Improper
+41234,HUMAN,Passing or Lane Usage Improper
+41235,HUMAN,Passing or Lane Usage Improper
+41236,HUMAN,Passing or Lane Usage Improper
+41237,HUMAN,Passing or Lane Usage Improper
+41238,ENVMT,Pavement Slippery
+41239,ENVMT,Pavement Slippery
+41240,ENVMT,Pavement Slippery
+41241,ENVMT,Pavement Slippery
+41242,ENVMT,Pavement Slippery
+41243,ENVMT,Pavement Slippery
+41244,ENVMT,Pavement Slippery
+41245,ENVMT,Pavement Slippery
+41246,ENVMT,Pavement Slippery
+41247,ENVMT,Pavement Slippery
+41248,ENVMT,Pavement Slippery
+41249,ENVMT,Pavement Slippery
+41250,ENVMT,Pavement Slippery
+41251,ENVMT,Pavement Slippery
+41252,ENVMT,Pavement Slippery
+41253,ENVMT,Pavement Slippery
+41254,ENVMT,Pavement Slippery
+41255,ENVMT,Pavement Slippery
+41256,ENVMT,Pavement Slippery
+41257,ENVMT,Pavement Slippery
+41258,ENVMT,Pavement Slippery
+41259,ENVMT,Pavement Slippery
+41260,ENVMT,Pavement Slippery
+41261,ENVMT,Pavement Slippery
+41262,ENVMT,Pavement Slippery
+41263,ENVMT,Pavement Slippery
+41264,ENVMT,Pavement Slippery
+41265,ENVMT,Pavement Slippery
+41266,ENVMT,Pavement Slippery
+41267,HUMAN,Pedestrian/Bicyclist Error/Confusion
+41268,HUMAN,Pedestrian/Bicyclist Error/Confusion
+41269,HUMAN,Reaction to Other Uninvolved Vehicle
+41270,HUMAN,Reaction to Other Uninvolved Vehicle
+41271,VEHICLE,Tire Failure/Inadequate
+41272,VEHICLE,Tire Failure/Inadequate
+41273,ENVMT,Traffic Control Device Disregarded
+41274,HUMAN,Traffic Control Device Disregarded
+41275,ENVMT,Traffic Control Device Disregarded
+41276,HUMAN,Traffic Control Device Disregarded
+41277,HUMAN,Traffic Control Device Disregarded
+41278,HUMAN,Traffic Control Device Disregarded
+41279,HUMAN,Traffic Control Device Disregarded
+41280,HUMAN,Traffic Control Device Disregarded
+41281,HUMAN,Traffic Control Device Disregarded
+41282,HUMAN,Traffic Control Device Disregarded
+41283,HUMAN,Turning Improperly
+41284,HUMAN,Turning Improperly
+41285,HUMAN,Turning Improperly
+41286,HUMAN,Turning Improperly
+41287,HUMAN,Turning Improperly
+41288,HUMAN,Unsafe Lane Changing
+41289,HUMAN,Unsafe Lane Changing
+41290,HUMAN,Unsafe Lane Changing
+41291,HUMAN,Unsafe Lane Changing
+41292,HUMAN,Unsafe Lane Changing
+41293,HUMAN,Unsafe Lane Changing
+41294,HUMAN,Unsafe Speed
+41295,HUMAN,Unsafe Speed
+41296,HUMAN,Unsafe Speed
+41297,HUMAN,Unsafe Speed
+41298,HUMAN,Unsafe Speed
+41299,HUMAN,Unsafe Speed
+41300,HUMAN,Unsafe Speed
+41301,HUMAN,Unsafe Speed
+41302,HUMAN,Unsafe Speed
+41303,HUMAN,Unsafe Speed
+41304,HUMAN,Unsafe Speed
+41305,HUMAN,Unsafe Speed
+41306,HUMAN,Unsafe Speed
+41307,HUMAN,Unsafe Speed
+41308,HUMAN,Unsafe Speed
+41309,HUMAN,Unsafe Speed
+41310,HUMAN,Unsafe Speed
+41311,HUMAN,Unsafe Speed
+41312,HUMAN,Unsafe Speed
+41313,HUMAN,Unsafe Speed
+41314,HUMAN,Unsafe Speed
+41315,HUMAN,Unsafe Speed
+41316,HUMAN,Unsafe Speed
+41317,HUMAN,Unsafe Speed
+41318,HUMAN,Unsafe Speed
+41319,ENVMT,View Obstructed/Limited
+41320,ENVMT,View Obstructed/Limited
+41321,ENVMT,View Obstructed/Limited
+41322,HUMAN,Driver Inexperience*
+41323,HUMAN,Failure to Yield Right-of-Way
+41324,HUMAN,Following Too Closely
+41325,VEHICLE,Other*
+41326,ANIMAL,Animal's Action
+41327,ANIMAL,Animal's Action
+41328,ANIMAL,Animal's Action
+41329,HUMAN,Backing Unsafely
+41330,VEHICLE,Brakes Defective
+41331,VEHICLE,Brakes Defective
+41332,HUMAN,Driver Inattention/Distraction*
+41333,HUMAN,Driver Inattention/Distraction*
+41334,HUMAN,Driver Inattention/Distraction*
+41335,HUMAN,Driver Inattention/Distraction*
+41336,HUMAN,Driver Inattention/Distraction*
+41337,HUMAN,Driver Inattention/Distraction*
+41338,HUMAN,Driver Inattention/Distraction*
+41339,HUMAN,Driver Inexperience*
+41340,HUMAN,Failure to Keep Right
+41341,HUMAN,Failure to Keep Right
+41342,HUMAN,Failure to Yield Right-of-Way
+41343,HUMAN,Failure to Yield Right-of-Way
+41344,HUMAN,Failure to Yield Right-of-Way
+41345,HUMAN,Failure to Yield Right-of-Way
+41346,HUMAN,Failure to Yield Right-of-Way
+41347,HUMAN,Failure to Yield Right-of-Way
+41348,HUMAN,Failure to Yield Right-of-Way
+41349,HUMAN,Failure to Yield Right-of-Way
+41350,HUMAN,Fell Asleep
+41351,HUMAN,Following Too Closely
+41352,HUMAN,Following Too Closely
+41353,HUMAN,Following Too Closely
+41354,HUMAN,Following Too Closely
+41355,HUMAN,Following Too Closely
+41356,HUMAN,Following Too Closely
+41357,HUMAN,Following Too Closely
+41358,HUMAN,Not Applicable
+41359,HUMAN,Not Applicable
+41360,ENVMT,Not Applicable
+41361,HUMAN,Not Applicable
+41362,HUMAN,Not Applicable
+41363,HUMAN,Not Applicable
+41364,HUMAN,Not Applicable
+41365,ENVMT,Not Applicable
+41366,HUMAN,Not Applicable
+41367,HUMAN,Passing or Lane Usage Improper
+41368,ENVMT,Pavement Slippery
+41369,ENVMT,Pavement Slippery
+41370,ENVMT,Pavement Slippery
+41371,ENVMT,Pavement Slippery
+41372,ENVMT,Pavement Slippery
+41373,ENVMT,Pavement Slippery
+41374,ENVMT,Pavement Slippery
+41375,ENVMT,Pavement Slippery
+41376,ENVMT,Pavement Slippery
+41377,ENVMT,Pavement Slippery
+41378,ENVMT,Pavement Slippery
+41379,ENVMT,Pavement Slippery
+41380,ENVMT,Pavement Slippery
+41381,ENVMT,Pavement Slippery
+41382,HUMAN,Reaction to Other Uninvolved Vehicle
+41383,ENVMT,Traffic Control Device Disregarded
+41384,VEHICLE,Traffic Control Device Disregarded
+41385,HUMAN,Traffic Control Device Disregarded
+41386,HUMAN,Turning Improperly
+41387,HUMAN,Unsafe Lane Changing
+41388,HUMAN,Unsafe Lane Changing
+41389,HUMAN,Unsafe Speed
+41390,HUMAN,Unsafe Speed
+41391,HUMAN,Failure to Yield Right-of-Way
+41392,ANIMAL,Animal's Action
+41393,ANIMAL,Animal's Action
+41394,HUMAN,Passing or Lane Usage Improper
+41395,HUMAN,Traffic Control Device Disregarded
+41396,HUMAN,Unsafe Speed
+41397,ANIMAL,Animal's Action
+41398,ANIMAL,Animal's Action
+41399,HUMAN,Driver Inattention/Distraction*
+41400,HUMAN,Driver Inattention/Distraction*
+41401,HUMAN,Driver Inattention/Distraction*
+41402,HUMAN,Failure to Yield Right-of-Way
+41403,HUMAN,Not Applicable
+41404,HUMAN,Passing or Lane Usage Improper
+41405,ENVMT,Pavement Slippery
+41406,HUMAN,Reaction to Other Uninvolved Vehicle
+41407,HUMAN,Turning Improperly
+41408,HUMAN,Unsafe Speed
+41409,HUMAN,Unsafe Speed
+41410,HUMAN,Driver Inattention/Distraction*
+41411,HUMAN,Failure to Keep Right
+41412,HUMAN,Failure to Yield Right-of-Way
+41413,HUMAN,Following Too Closely
+41414,HUMAN,Not Applicable
+41415,VEHICLE,Other*
+41416,ENVMT,Pavement Slippery
+41417,HUMAN,Unsafe Lane Changing
+41418,HUMAN,Unsafe Speed
+41419,HUMAN,Unsafe Speed
+41420,ANIMAL,Animal's Action
+41421,ANIMAL,Animal's Action
+41422,ANIMAL,Animal's Action
+41423,HUMAN,Driver Inattention/Distraction*
+41424,HUMAN,Driver Inattention/Distraction*
+41425,HUMAN,Driver Inattention/Distraction*
+41426,HUMAN,Driver Inattention/Distraction*
+41427,HUMAN,Driver Inattention/Distraction*
+41428,HUMAN,Driver Inattention/Distraction*
+41429,HUMAN,Driver Inattention/Distraction*
+41430,HUMAN,Driver Inexperience*
+41431,HUMAN,Driver Inexperience*
+41432,HUMAN,Drugs (Illegal)
+41433,HUMAN,Failure to Keep Right
+41434,HUMAN,Failure to Keep Right
+41435,HUMAN,Failure to Yield Right-of-Way
+41436,HUMAN,Failure to Yield Right-of-Way
+41437,HUMAN,Following Too Closely
+41438,HUMAN,Following Too Closely
+41439,HUMAN,Following Too Closely
+41440,HUMAN,Following Too Closely
+41441,ENVMT,Glare
+41442,ENVMT,Glare
+41443,ENVMT,Not Applicable
+41444,HUMAN,Not Applicable
+41445,HUMAN,Not Applicable
+41446,ENVMT,Not Applicable
+41447,HUMAN,Not Applicable
+41448,HUMAN,Not Applicable
+41449,HUMAN,Not Applicable
+41450,HUMAN,Not Applicable
+41451,ENVMT,Obstruction/ Debris
+41452,HUMAN,Passing or Lane Usage Improper
+41453,HUMAN,Passing or Lane Usage Improper
+41454,ENVMT,Pavement Slippery
+41455,ENVMT,Pavement Slippery
+41456,ENVMT,Pavement Slippery
+41457,ENVMT,Pavement Slippery
+41458,HUMAN,Traffic Control Device Disregarded
+41459,HUMAN,Unsafe Lane Changing
+41460,HUMAN,Unsafe Lane Changing
+41461,HUMAN,Unsafe Speed
+41462,HUMAN,Unsafe Speed
+41463,ENVMT,View Obstructed/Limited
+41464,ANIMAL,Animal's Action
+41465,HUMAN,Backing Unsafely
+41466,HUMAN,Failure to Yield Right-of-Way
+41467,HUMAN,Fatigued/Drowsy
+41468,HUMAN,Not Applicable
+41469,ENVMT,Obstruction/ Debris
+41470,HUMAN,Traffic Control Device Disregarded
+41471,HUMAN,Unsafe Speed
+41472,VEHICLE,Accelerator Defective
+41473,HUMAN,Aggressive Driving/Road Rage
+41474,ANIMAL,Animal's Action
+41475,ANIMAL,Animal's Action
+41476,ANIMAL,Animal's Action
+41477,ANIMAL,Animal's Action
+41478,ANIMAL,Animal's Action
+41479,ANIMAL,Animal's Action
+41480,ANIMAL,Animal's Action
+41481,ANIMAL,Animal's Action
+41482,ANIMAL,Animal's Action
+41483,ANIMAL,Animal's Action
+41484,ANIMAL,Animal's Action
+41485,ANIMAL,Animal's Action
+41486,ANIMAL,Animal's Action
+41487,ANIMAL,Animal's Action
+41488,ANIMAL,Animal's Action
+41489,ANIMAL,Animal's Action
+41490,HUMAN,Backing Unsafely
+41491,HUMAN,Backing Unsafely
+41492,HUMAN,Backing Unsafely
+41493,HUMAN,Backing Unsafely
+41494,VEHICLE,Brakes Defective
+41495,HUMAN,Driver Inattention/Distraction*
+41496,HUMAN,Driver Inattention/Distraction*
+41497,HUMAN,Driver Inattention/Distraction*
+41498,HUMAN,Driver Inattention/Distraction*
+41499,HUMAN,Driver Inattention/Distraction*
+41500,HUMAN,Driver Inattention/Distraction*
+41501,HUMAN,Driver Inattention/Distraction*
+41502,HUMAN,Driver Inattention/Distraction*
+41503,HUMAN,Driver Inattention/Distraction*
+41504,HUMAN,Driver Inexperience*
+41505,HUMAN,Failure to Keep Right
+41506,HUMAN,Failure to Yield Right-of-Way
+41507,HUMAN,Failure to Yield Right-of-Way
+41508,HUMAN,Failure to Yield Right-of-Way
+41509,HUMAN,Failure to Yield Right-of-Way
+41510,HUMAN,Failure to Yield Right-of-Way
+41511,HUMAN,Failure to Yield Right-of-Way
+41512,HUMAN,Failure to Yield Right-of-Way
+41513,HUMAN,Failure to Yield Right-of-Way
+41514,HUMAN,Failure to Yield Right-of-Way
+41515,HUMAN,Failure to Yield Right-of-Way
+41516,HUMAN,Failure to Yield Right-of-Way
+41517,HUMAN,Fell Asleep
+41518,HUMAN,Following Too Closely
+41519,HUMAN,Following Too Closely
+41520,HUMAN,Following Too Closely
+41521,HUMAN,Following Too Closely
+41522,HUMAN,Following Too Closely
+41523,HUMAN,Following Too Closely
+41524,HUMAN,Following Too Closely
+41525,HUMAN,Following Too Closely
+41526,HUMAN,Following Too Closely
+41527,HUMAN,Following Too Closely
+41528,HUMAN,Following Too Closely
+41529,HUMAN,Following Too Closely
+41530,ENVMT,Glare
+41531,HUMAN,Lost Consciousness
+41532,HUMAN,Not Applicable
+41533,HUMAN,Not Applicable
+41534,HUMAN,Not Applicable
+41535,ENVMT,Not Applicable
+41536,ENVMT,Not Applicable
+41537,HUMAN,Not Applicable
+41538,VEHICLE,Not Applicable
+41539,ENVMT,Not Applicable
+41540,HUMAN,Not Applicable
+41541,ENVMT,Not Applicable
+41542,HUMAN,Not Applicable
+41543,HUMAN,Not Applicable
+41544,HUMAN,Not Applicable
+41545,HUMAN,Not Applicable
+41546,HUMAN,Not Applicable
+41547,HUMAN,Not Applicable
+41548,HUMAN,Not Applicable
+41549,HUMAN,Not Applicable
+41550,HUMAN,Not Applicable
+41551,HUMAN,Not Applicable
+41552,HUMAN,Not Applicable
+41553,HUMAN,Not Applicable
+41554,HUMAN,Not Applicable
+41555,HUMAN,Not Applicable
+41556,HUMAN,Not Applicable
+41557,HUMAN,Obstruction/ Debris
+41558,VEHICLE,Other*
+41559,VEHICLE,Other*
+41560,VEHICLE,Other*
+41561,HUMAN,Oversized Vehicle
+41562,HUMAN,Passenger Distraction
+41563,HUMAN,Passing or Lane Usage Improper
+41564,HUMAN,Passing or Lane Usage Improper
+41565,HUMAN,Passing or Lane Usage Improper
+41566,ENVMT,Pavement Slippery
+41567,ENVMT,Pavement Slippery
+41568,ENVMT,Pavement Slippery
+41569,ENVMT,Pavement Slippery
+41570,ENVMT,Pavement Slippery
+41571,ENVMT,Pavement Slippery
+41572,ENVMT,Pavement Slippery
+41573,HUMAN,Prescription Medication
+41574,HUMAN,Reaction to Other Uninvolved Vehicle
+41575,HUMAN,Traffic Control Device Disregarded
+41576,HUMAN,Traffic Control Device Disregarded
+41577,HUMAN,Traffic Control Device Disregarded
+41578,HUMAN,Traffic Control Device Disregarded
+41579,HUMAN,Traffic Control Device Disregarded
+41580,HUMAN,Turning Improperly
+41581,HUMAN,Unsafe Lane Changing
+41582,HUMAN,Unsafe Lane Changing
+41583,HUMAN,Unsafe Lane Changing
+41584,HUMAN,Unsafe Lane Changing
+41585,HUMAN,Unsafe Speed
+41586,HUMAN,Unsafe Speed
+41587,HUMAN,Unsafe Speed
+41588,HUMAN,Unsafe Speed
+41589,HUMAN,Unsafe Speed
+41590,ENVMT,View Obstructed/Limited
+41591,ENVMT,View Obstructed/Limited
+41592,ANIMAL,Animal's Action
+41593,HUMAN,Not Applicable
+41594,HUMAN,Outside Car Distraction*
+41595,ANIMAL,Animal's Action
+41596,ANIMAL,Animal's Action
+41597,HUMAN,Backing Unsafely
+41598,HUMAN,Driver Inattention/Distraction*
+41599,HUMAN,Driver Inattention/Distraction*
+41600,HUMAN,Following Too Closely
+41601,HUMAN,Following Too Closely
+41602,HUMAN,Following Too Closely
+41603,HUMAN,Not Applicable
+41604,HUMAN,Not Applicable
+41605,HUMAN,Passing or Lane Usage Improper
+41606,ENVMT,Pavement Slippery
+41607,HUMAN,Reaction to Other Uninvolved Vehicle
+41608,HUMAN,Traffic Control Device Disregarded
+41609,HUMAN,Turning Improperly
+41610,HUMAN,Turning Improperly
+41611,HUMAN,Unsafe Speed
+41612,HUMAN,Unsafe Speed
+41613,HUMAN,Unsafe Speed
+41614,ENVMT,View Obstructed/Limited
+41615,ENVMT,Pavement Slippery
+41616,VEHICLE,Accelerator Defective
+41617,HUMAN,Alcohol Involvement
+41618,HUMAN,Alcohol Involvement
+41619,HUMAN,Alcohol Involvement
+41620,ANIMAL,Animal's Action
+41621,ANIMAL,Animal's Action
+41622,ANIMAL,Animal's Action
+41623,ANIMAL,Animal's Action
+41624,ANIMAL,Animal's Action
+41625,ANIMAL,Animal's Action
+41626,ANIMAL,Animal's Action
+41627,ANIMAL,Animal's Action
+41628,ANIMAL,Animal's Action
+41629,ANIMAL,Animal's Action
+41630,ANIMAL,Animal's Action
+41631,ANIMAL,Animal's Action
+41632,ANIMAL,Animal's Action
+41633,ANIMAL,Animal's Action
+41634,ANIMAL,Animal's Action
+41635,ANIMAL,Animal's Action
+41636,ANIMAL,Animal's Action
+41637,ANIMAL,Animal's Action
+41638,ANIMAL,Animal's Action
+41639,ANIMAL,Animal's Action
+41640,ANIMAL,Animal's Action
+41641,ANIMAL,Animal's Action
+41642,ANIMAL,Animal's Action
+41643,ANIMAL,Animal's Action
+41644,ANIMAL,Animal's Action
+41645,ANIMAL,Animal's Action
+41646,ANIMAL,Animal's Action
+41647,ANIMAL,Animal's Action
+41648,ANIMAL,Animal's Action
+41649,ANIMAL,Animal's Action
+41650,HUMAN,Backing Unsafely
+41651,HUMAN,Backing Unsafely
+41652,HUMAN,Backing Unsafely
+41653,VEHICLE,Brakes Defective
+41654,VEHICLE,Brakes Defective
+41655,VEHICLE,Brakes Defective
+41656,VEHICLE,Brakes Defective
+41657,HUMAN,Cell Phone (hand held)
+41658,HUMAN,Driver Inattention/Distraction*
+41659,HUMAN,Driver Inattention/Distraction*
+41660,HUMAN,Driver Inattention/Distraction*
+41661,HUMAN,Driver Inattention/Distraction*
+41662,HUMAN,Driver Inattention/Distraction*
+41663,HUMAN,Driver Inattention/Distraction*
+41664,HUMAN,Driver Inattention/Distraction*
+41665,HUMAN,Driver Inattention/Distraction*
+41666,HUMAN,Driver Inattention/Distraction*
+41667,HUMAN,Driver Inattention/Distraction*
+41668,HUMAN,Driver Inattention/Distraction*
+41669,HUMAN,Driver Inattention/Distraction*
+41670,HUMAN,Driver Inattention/Distraction*
+41671,HUMAN,Driver Inattention/Distraction*
+41672,HUMAN,Driver Inattention/Distraction*
+41673,HUMAN,Driver Inattention/Distraction*
+41674,HUMAN,Driver Inattention/Distraction*
+41675,HUMAN,Driver Inattention/Distraction*
+41676,HUMAN,Driver Inattention/Distraction*
+41677,HUMAN,Driver Inattention/Distraction*
+41678,HUMAN,Driver Inattention/Distraction*
+41679,HUMAN,Driver Inattention/Distraction*
+41680,HUMAN,Driver Inattention/Distraction*
+41681,HUMAN,Driver Inattention/Distraction*
+41682,HUMAN,Driver Inattention/Distraction*
+41683,HUMAN,Driver Inattention/Distraction*
+41684,HUMAN,Driver Inattention/Distraction*
+41685,HUMAN,Driver Inattention/Distraction*
+41686,HUMAN,Driver Inattention/Distraction*
+41687,HUMAN,Driver Inattention/Distraction*
+41688,HUMAN,Driver Inattention/Distraction*
+41689,HUMAN,Driver Inattention/Distraction*
+41690,HUMAN,Driver Inattention/Distraction*
+41691,HUMAN,Driver Inattention/Distraction*
+41692,HUMAN,Driver Inattention/Distraction*
+41693,HUMAN,Driver Inattention/Distraction*
+41694,HUMAN,Driver Inattention/Distraction*
+41695,HUMAN,Driver Inattention/Distraction*
+41696,HUMAN,Driver Inattention/Distraction*
+41697,HUMAN,Driver Inattention/Distraction*
+41698,HUMAN,Driver Inattention/Distraction*
+41699,HUMAN,Driver Inattention/Distraction*
+41700,HUMAN,Driver Inattention/Distraction*
+41701,HUMAN,Driver Inattention/Distraction*
+41702,HUMAN,Driver Inattention/Distraction*
+41703,HUMAN,Driver Inattention/Distraction*
+41704,HUMAN,Driver Inattention/Distraction*
+41705,HUMAN,Driver Inattention/Distraction*
+41706,HUMAN,Driver Inattention/Distraction*
+41707,HUMAN,Driver Inattention/Distraction*
+41708,HUMAN,Driver Inattention/Distraction*
+41709,HUMAN,Driver Inexperience*
+41710,HUMAN,Driver Inexperience*
+41711,HUMAN,Driver Inexperience*
+41712,HUMAN,Driver Inexperience*
+41713,HUMAN,Drugs (Illegal)
+41714,HUMAN,Eating or Drinking
+41715,HUMAN,Failure to Keep Right
+41716,HUMAN,Failure to Keep Right
+41717,HUMAN,Failure to Keep Right
+41718,HUMAN,Failure to Keep Right
+41719,HUMAN,Failure to Keep Right
+41720,HUMAN,Failure to Yield Right-of-Way
+41721,HUMAN,Failure to Yield Right-of-Way
+41722,HUMAN,Failure to Yield Right-of-Way
+41723,HUMAN,Failure to Yield Right-of-Way
+41724,HUMAN,Failure to Yield Right-of-Way
+41725,HUMAN,Failure to Yield Right-of-Way
+41726,HUMAN,Failure to Yield Right-of-Way
+41727,HUMAN,Failure to Yield Right-of-Way
+41728,HUMAN,Failure to Yield Right-of-Way
+41729,HUMAN,Failure to Yield Right-of-Way
+41730,HUMAN,Failure to Yield Right-of-Way
+41731,HUMAN,Failure to Yield Right-of-Way
+41732,HUMAN,Failure to Yield Right-of-Way
+41733,HUMAN,Failure to Yield Right-of-Way
+41734,HUMAN,Failure to Yield Right-of-Way
+41735,HUMAN,Failure to Yield Right-of-Way
+41736,HUMAN,Failure to Yield Right-of-Way
+41737,HUMAN,Failure to Yield Right-of-Way
+41738,HUMAN,Failure to Yield Right-of-Way
+41739,HUMAN,Failure to Yield Right-of-Way
+41740,HUMAN,Failure to Yield Right-of-Way
+41741,HUMAN,Failure to Yield Right-of-Way
+41742,HUMAN,Failure to Yield Right-of-Way
+41743,HUMAN,Failure to Yield Right-of-Way
+41744,HUMAN,Failure to Yield Right-of-Way
+41745,HUMAN,Failure to Yield Right-of-Way
+41746,HUMAN,Failure to Yield Right-of-Way
+41747,HUMAN,Failure to Yield Right-of-Way
+41748,HUMAN,Failure to Yield Right-of-Way
+41749,HUMAN,Failure to Yield Right-of-Way
+41750,HUMAN,Failure to Yield Right-of-Way
+41751,HUMAN,Failure to Yield Right-of-Way
+41752,HUMAN,Failure to Yield Right-of-Way
+41753,HUMAN,Failure to Yield Right-of-Way
+41754,HUMAN,Failure to Yield Right-of-Way
+41755,HUMAN,Failure to Yield Right-of-Way
+41756,HUMAN,Failure to Yield Right-of-Way
+41757,HUMAN,Failure to Yield Right-of-Way
+41758,HUMAN,Failure to Yield Right-of-Way
+41759,HUMAN,Failure to Yield Right-of-Way
+41760,HUMAN,Failure to Yield Right-of-Way
+41761,HUMAN,Failure to Yield Right-of-Way
+41762,HUMAN,Fatigued/Drowsy
+41763,HUMAN,Fatigued/Drowsy
+41764,HUMAN,Fatigued/Drowsy
+41765,HUMAN,Fatigued/Drowsy
+41766,HUMAN,Fatigued/Drowsy
+41767,HUMAN,Fell Asleep
+41768,HUMAN,Fell Asleep
+41769,HUMAN,Fell Asleep
+41770,HUMAN,Fell Asleep
+41771,HUMAN,Fell Asleep
+41772,HUMAN,Following Too Closely
+41773,HUMAN,Following Too Closely
+41774,HUMAN,Following Too Closely
+41775,HUMAN,Following Too Closely
+41776,HUMAN,Following Too Closely
+41777,HUMAN,Following Too Closely
+41778,HUMAN,Following Too Closely
+41779,HUMAN,Following Too Closely
+41780,HUMAN,Following Too Closely
+41781,HUMAN,Following Too Closely
+41782,HUMAN,Following Too Closely
+41783,HUMAN,Following Too Closely
+41784,HUMAN,Following Too Closely
+41785,HUMAN,Following Too Closely
+41786,HUMAN,Following Too Closely
+41787,HUMAN,Following Too Closely
+41788,HUMAN,Following Too Closely
+41789,HUMAN,Following Too Closely
+41790,HUMAN,Following Too Closely
+41791,HUMAN,Following Too Closely
+41792,HUMAN,Following Too Closely
+41793,HUMAN,Following Too Closely
+41794,HUMAN,Following Too Closely
+41795,HUMAN,Following Too Closely
+41796,HUMAN,Following Too Closely
+41797,HUMAN,Following Too Closely
+41798,HUMAN,Following Too Closely
+41799,HUMAN,Following Too Closely
+41800,HUMAN,Following Too Closely
+41801,HUMAN,Following Too Closely
+41802,HUMAN,Following Too Closely
+41803,HUMAN,Following Too Closely
+41804,HUMAN,Following Too Closely
+41805,HUMAN,Following Too Closely
+41806,HUMAN,Following Too Closely
+41807,HUMAN,Following Too Closely
+41808,HUMAN,Following Too Closely
+41809,HUMAN,Following Too Closely
+41810,HUMAN,Following Too Closely
+41811,HUMAN,Following Too Closely
+41812,HUMAN,Following Too Closely
+41813,HUMAN,Following Too Closely
+41814,HUMAN,Following Too Closely
+41815,HUMAN,Following Too Closely
+41816,HUMAN,Following Too Closely
+41817,HUMAN,Following Too Closely
+41818,ENVMT,Glare
+41819,ENVMT,Glare
+41820,ENVMT,Glare
+41821,ENVMT,Glare
+41822,ENVMT,Glare
+41823,ENVMT,Glare
+41824,ENVMT,Glare
+41825,ENVMT,Lane Marking Improper/Inadequate
+41826,HUMAN,Lost Consciousness
+41827,HUMAN,Lost Consciousness
+41828,HUMAN,Not Applicable
+41829,HUMAN,Not Applicable
+41830,ENVMT,Not Applicable
+41831,HUMAN,Not Applicable
+41832,HUMAN,Not Applicable
+41833,ENVMT,Not Applicable
+41834,HUMAN,Not Applicable
+41835,HUMAN,Not Applicable
+41836,HUMAN,Not Applicable
+41837,ENVMT,Not Applicable
+41838,HUMAN,Not Applicable
+41839,HUMAN,Not Applicable
+41840,HUMAN,Not Applicable
+41841,ENVMT,Not Applicable
+41842,HUMAN,Not Applicable
+41843,HUMAN,Not Applicable
+41844,HUMAN,Not Applicable
+41845,ENVMT,Not Applicable
+41846,HUMAN,Not Applicable
+41847,HUMAN,Not Applicable
+41848,ENVMT,Not Applicable
+41849,HUMAN,Not Applicable
+41850,HUMAN,Not Applicable
+41851,HUMAN,Not Applicable
+41852,HUMAN,Not Applicable
+41853,ENVMT,Not Applicable
+41854,HUMAN,Not Applicable
+41855,HUMAN,Not Applicable
+41856,HUMAN,Not Applicable
+41857,HUMAN,Not Applicable
+41858,HUMAN,Not Applicable
+41859,HUMAN,Not Applicable
+41860,HUMAN,Not Applicable
+41861,HUMAN,Not Applicable
+41862,HUMAN,Not Applicable
+41863,HUMAN,Not Applicable
+41864,ENVMT,Not Applicable
+41865,ENVMT,Not Applicable
+41866,HUMAN,Not Applicable
+41867,ENVMT,Not Applicable
+41868,ENVMT,Not Applicable
+41869,HUMAN,Not Applicable
+41870,HUMAN,Not Applicable
+41871,HUMAN,Not Applicable
+41872,HUMAN,Not Applicable
+41873,HUMAN,Not Applicable
+41874,HUMAN,Not Applicable
+41875,HUMAN,Not Applicable
+41876,HUMAN,Not Applicable
+41877,HUMAN,Not Applicable
+41878,HUMAN,Not Applicable
+41879,HUMAN,Not Applicable
+41880,HUMAN,Not Applicable
+41881,HUMAN,Not Applicable
+41882,HUMAN,Not Applicable
+41883,HUMAN,Not Applicable
+41884,HUMAN,Not Applicable
+41885,HUMAN,Not Applicable
+41886,HUMAN,Not Applicable
+41887,HUMAN,Not Applicable
+41888,HUMAN,Not Applicable
+41889,HUMAN,Not Applicable
+41890,ENVMT,Obstruction/ Debris
+41891,VEHICLE,Other*
+41892,VEHICLE,Other*
+41893,VEHICLE,Other*
+41894,VEHICLE,Other*
+41895,VEHICLE,Other*
+41896,VEHICLE,Other*
+41897,ENVMT,Oversized Vehicle
+41898,HUMAN,Oversized Vehicle
+41899,HUMAN,Passenger Distraction
+41900,HUMAN,Passing or Lane Usage Improper
+41901,HUMAN,Passing or Lane Usage Improper
+41902,HUMAN,Passing or Lane Usage Improper
+41903,HUMAN,Passing or Lane Usage Improper
+41904,HUMAN,Passing or Lane Usage Improper
+41905,HUMAN,Passing or Lane Usage Improper
+41906,HUMAN,Passing or Lane Usage Improper
+41907,HUMAN,Passing or Lane Usage Improper
+41908,HUMAN,Passing or Lane Usage Improper
+41909,HUMAN,Passing or Lane Usage Improper
+41910,HUMAN,Passing or Lane Usage Improper
+41911,HUMAN,Passing or Lane Usage Improper
+41912,HUMAN,Passing or Lane Usage Improper
+41913,HUMAN,Passing or Lane Usage Improper
+41914,HUMAN,Passing or Lane Usage Improper
+41915,HUMAN,Passing or Lane Usage Improper
+41916,HUMAN,Passing or Lane Usage Improper
+41917,HUMAN,Passing or Lane Usage Improper
+41918,HUMAN,Passing Too Closely
+41919,HUMAN,Passing Too Closely
+41920,ENVMT,Pavement Slippery
+41921,ENVMT,Pavement Slippery
+41922,ENVMT,Pavement Slippery
+41923,ENVMT,Pavement Slippery
+41924,ENVMT,Pavement Slippery
+41925,ENVMT,Pavement Slippery
+41926,ENVMT,Pavement Slippery
+41927,ENVMT,Pavement Slippery
+41928,ENVMT,Pavement Slippery
+41929,ENVMT,Pavement Slippery
+41930,ENVMT,Pavement Slippery
+41931,ENVMT,Pavement Slippery
+41932,ENVMT,Pavement Slippery
+41933,ENVMT,Pavement Slippery
+41934,ENVMT,Pavement Slippery
+41935,ENVMT,Pavement Slippery
+41936,ENVMT,Pavement Slippery
+41937,ENVMT,Pavement Slippery
+41938,ENVMT,Pavement Slippery
+41939,ENVMT,Pavement Slippery
+41940,ENVMT,Pavement Slippery
+41941,ENVMT,Pavement Slippery
+41942,ENVMT,Pavement Slippery
+41943,ENVMT,Pavement Slippery
+41944,ENVMT,Pavement Slippery
+41945,ENVMT,Pavement Slippery
+41946,ENVMT,Pavement Slippery
+41947,ENVMT,Pavement Slippery
+41948,ENVMT,Pavement Slippery
+41949,ENVMT,Pavement Slippery
+41950,ENVMT,Pavement Slippery
+41951,ENVMT,Pavement Slippery
+41952,HUMAN,Physical Disability
+41953,HUMAN,Reaction to Other Uninvolved Vehicle
+41954,HUMAN,Reaction to Other Uninvolved Vehicle
+41955,HUMAN,Reaction to Other Uninvolved Vehicle
+41956,HUMAN,Reaction to Other Uninvolved Vehicle
+41957,HUMAN,Reaction to Other Uninvolved Vehicle
+41958,HUMAN,Reaction to Other Uninvolved Vehicle
+41959,HUMAN,Reaction to Other Uninvolved Vehicle
+41960,HUMAN,Reaction to Other Uninvolved Vehicle
+41961,VEHICLE,Steering Failure
+41962,VEHICLE,Steering Failure
+41963,VEHICLE,Steering Failure
+41964,HUMAN,Texting
+41965,HUMAN,Traffic Control Device Disregarded
+41966,HUMAN,Traffic Control Device Disregarded
+41967,HUMAN,Traffic Control Device Disregarded
+41968,HUMAN,Traffic Control Device Disregarded
+41969,HUMAN,Traffic Control Device Disregarded
+41970,HUMAN,Traffic Control Device Disregarded
+41971,HUMAN,Traffic Control Device Disregarded
+41972,HUMAN,Traffic Control Device Disregarded
+41973,HUMAN,Traffic Control Device Disregarded
+41974,HUMAN,Traffic Control Device Disregarded
+41975,HUMAN,Traffic Control Device Disregarded
+41976,HUMAN,Traffic Control Device Disregarded
+41977,HUMAN,Traffic Control Device Disregarded
+41978,HUMAN,Traffic Control Device Disregarded
+41979,HUMAN,Traffic Control Device Disregarded
+41980,HUMAN,Traffic Control Device Disregarded
+41981,HUMAN,Turning Improperly
+41982,HUMAN,Turning Improperly
+41983,HUMAN,Turning Improperly
+41984,HUMAN,Turning Improperly
+41985,HUMAN,Turning Improperly
+41986,HUMAN,Turning Improperly
+41987,HUMAN,Turning Improperly
+41988,HUMAN,Turning Improperly
+41989,HUMAN,Turning Improperly
+41990,HUMAN,Turning Improperly
+41991,HUMAN,Turning Improperly
+41992,HUMAN,Turning Improperly
+41993,HUMAN,Turning Improperly
+41994,HUMAN,Turning Improperly
+41995,HUMAN,Turning Improperly
+41996,HUMAN,Turning Improperly
+41997,HUMAN,Turning Improperly
+41998,HUMAN,Turning Improperly
+41999,HUMAN,Turning Improperly
+42000,HUMAN,Turning Improperly
+42001,HUMAN,Turning Improperly
+42002,HUMAN,Turning Improperly
+42003,HUMAN,Unsafe Lane Changing
+42004,HUMAN,Unsafe Lane Changing
+42005,HUMAN,Unsafe Lane Changing
+42006,HUMAN,Unsafe Lane Changing
+42007,HUMAN,Unsafe Lane Changing
+42008,HUMAN,Unsafe Lane Changing
+42009,HUMAN,Unsafe Lane Changing
+42010,HUMAN,Unsafe Lane Changing
+42011,HUMAN,Unsafe Lane Changing
+42012,HUMAN,Unsafe Lane Changing
+42013,HUMAN,Unsafe Lane Changing
+42014,HUMAN,Unsafe Lane Changing
+42015,HUMAN,Unsafe Lane Changing
+42016,HUMAN,Unsafe Lane Changing
+42017,HUMAN,Unsafe Lane Changing
+42018,HUMAN,Unsafe Lane Changing
+42019,HUMAN,Unsafe Lane Changing
+42020,HUMAN,Unsafe Lane Changing
+42021,HUMAN,Unsafe Lane Changing
+42022,HUMAN,Unsafe Speed
+42023,HUMAN,Unsafe Speed
+42024,HUMAN,Unsafe Speed
+42025,HUMAN,Unsafe Speed
+42026,HUMAN,Unsafe Speed
+42027,HUMAN,Unsafe Speed
+42028,HUMAN,Unsafe Speed
+42029,HUMAN,Unsafe Speed
+42030,HUMAN,Unsafe Speed
+42031,HUMAN,Unsafe Speed
+42032,HUMAN,Unsafe Speed
+42033,HUMAN,Unsafe Speed
+42034,HUMAN,Unsafe Speed
+42035,HUMAN,Unsafe Speed
+42036,HUMAN,Unsafe Speed
+42037,HUMAN,Unsafe Speed
+42038,HUMAN,Unsafe Speed
+42039,HUMAN,Unsafe Speed
+42040,HUMAN,Unsafe Speed
+42041,HUMAN,Unsafe Speed
+42042,HUMAN,Unsafe Speed
+42043,HUMAN,Unsafe Speed
+42044,HUMAN,Unsafe Speed
+42045,ENVMT,View Obstructed/Limited
+42046,ENVMT,View Obstructed/Limited
+42047,ENVMT,View Obstructed/Limited
+42048,ENVMT,View Obstructed/Limited
+42049,ENVMT,View Obstructed/Limited
+42050,ENVMT,View Obstructed/Limited
+42051,ENVMT,View Obstructed/Limited
+42052,ENVMT,View Obstructed/Limited
+42053,ENVMT,View Obstructed/Limited
+42054,ENVMT,View Obstructed/Limited
+42055,ENVMT,View Obstructed/Limited
+42056,ENVMT,View Obstructed/Limited
+42057,ENVMT,View Obstructed/Limited
+42058,ENVMT,View Obstructed/Limited
+42059,ANIMAL,Animal's Action
+42060,ANIMAL,Animal's Action
+42061,ANIMAL,Animal's Action
+42062,ANIMAL,Animal's Action
+42063,ANIMAL,Animal's Action
+42064,HUMAN,Backing Unsafely
+42065,HUMAN,Driver Inattention/Distraction*
+42066,HUMAN,Driver Inattention/Distraction*
+42067,HUMAN,Driver Inattention/Distraction*
+42068,HUMAN,Failure to Keep Right
+42069,HUMAN,Failure to Yield Right-of-Way
+42070,HUMAN,Failure to Yield Right-of-Way
+42071,HUMAN,Fell Asleep
+42072,HUMAN,Fell Asleep
+42073,HUMAN,Following Too Closely
+42074,HUMAN,Following Too Closely
+42075,ENVMT,Glare
+42076,ENVMT,Not Applicable
+42077,HUMAN,Not Applicable
+42078,ENVMT,Not Applicable
+42079,ENVMT,Not Applicable
+42080,HUMAN,Not Applicable
+42081,HUMAN,Not Applicable
+42082,ENVMT,Not Applicable
+42083,HUMAN,Not Applicable
+42084,HUMAN,Not Applicable
+42085,HUMAN,Not Applicable
+42086,ENVMT,Pavement Slippery
+42087,ENVMT,Pavement Slippery
+42088,ENVMT,Pavement Slippery
+42089,ENVMT,Pavement Slippery
+42090,ENVMT,Pavement Slippery
+42091,ENVMT,Pavement Slippery
+42092,HUMAN,Physical Disability
+42093,VEHICLE,Tire Failure/Inadequate
+42094,HUMAN,Turning Improperly
+42095,HUMAN,Unsafe Lane Changing
+42096,HUMAN,Unsafe Lane Changing
+42097,HUMAN,Unsafe Speed
+42098,HUMAN,Unsafe Speed
+42099,HUMAN,Unsafe Speed
+42100,ANIMAL,Animal's Action
+42101,HUMAN,Driver Inattention/Distraction*
+42102,HUMAN,Driver Inattention/Distraction*
+42103,HUMAN,Illness
+42104,ENVMT,Not Applicable
+42105,HUMAN,Not Applicable
+42106,HUMAN,Reaction to Other Uninvolved Vehicle
+42107,HUMAN,Traffic Control Device Disregarded
+42108,HUMAN,Unsafe Lane Changing
+42109,HUMAN,Alcohol Involvement
+42110,ANIMAL,Animal's Action
+42111,ANIMAL,Animal's Action
+42112,ANIMAL,Animal's Action
+42113,ANIMAL,Animal's Action
+42114,ANIMAL,Animal's Action
+42115,HUMAN,Backing Unsafely
+42116,HUMAN,Backing Unsafely
+42117,HUMAN,Backing Unsafely
+42118,HUMAN,Driver Inattention/Distraction*
+42119,HUMAN,Driver Inattention/Distraction*
+42120,HUMAN,Driver Inattention/Distraction*
+42121,HUMAN,Driver Inattention/Distraction*
+42122,HUMAN,Driver Inattention/Distraction*
+42123,HUMAN,Driver Inattention/Distraction*
+42124,HUMAN,Driver Inattention/Distraction*
+42125,HUMAN,Driver Inattention/Distraction*
+42126,HUMAN,Driver Inattention/Distraction*
+42127,HUMAN,Driver Inattention/Distraction*
+42128,HUMAN,Driver Inattention/Distraction*
+42129,HUMAN,Driver Inattention/Distraction*
+42130,HUMAN,Failure to Keep Right
+42131,HUMAN,Failure to Keep Right
+42132,HUMAN,Failure to Keep Right
+42133,HUMAN,Failure to Yield Right-of-Way
+42134,HUMAN,Failure to Yield Right-of-Way
+42135,HUMAN,Failure to Yield Right-of-Way
+42136,HUMAN,Failure to Yield Right-of-Way
+42137,HUMAN,Failure to Yield Right-of-Way
+42138,HUMAN,Failure to Yield Right-of-Way
+42139,HUMAN,Fatigued/Drowsy
+42140,HUMAN,Fell Asleep
+42141,HUMAN,Following Too Closely
+42142,HUMAN,Following Too Closely
+42143,HUMAN,Following Too Closely
+42144,HUMAN,Following Too Closely
+42145,HUMAN,Following Too Closely
+42146,HUMAN,Following Too Closely
+42147,HUMAN,Following Too Closely
+42148,HUMAN,Following Too Closely
+42149,HUMAN,Following Too Closely
+42150,HUMAN,Following Too Closely
+42151,HUMAN,Following Too Closely
+42152,HUMAN,Following Too Closely
+42153,HUMAN,Following Too Closely
+42154,ENVMT,Glare
+42155,ENVMT,Not Applicable
+42156,ENVMT,Not Applicable
+42157,HUMAN,Not Applicable
+42158,HUMAN,Not Applicable
+42159,HUMAN,Not Applicable
+42160,HUMAN,Not Applicable
+42161,HUMAN,Not Applicable
+42162,HUMAN,Not Applicable
+42163,ENVMT,Not Applicable
+42164,HUMAN,Not Applicable
+42165,HUMAN,Not Applicable
+42166,HUMAN,Not Applicable
+42167,ENVMT,Obstruction/ Debris
+42168,HUMAN,Passing or Lane Usage Improper
+42169,ENVMT,Pavement Slippery
+42170,ENVMT,Pavement Slippery
+42171,ENVMT,Pavement Slippery
+42172,ENVMT,Pavement Slippery
+42173,ENVMT,Pavement Slippery
+42174,ENVMT,Pavement Slippery
+42175,ENVMT,Pavement Slippery
+42176,HUMAN,Pedestrian/Bicyclist Error/Confusion
+42177,HUMAN,Reaction to Other Uninvolved Vehicle
+42178,HUMAN,Reaction to Other Uninvolved Vehicle
+42179,HUMAN,Reaction to Other Uninvolved Vehicle
+42180,VEHICLE,Tire Failure/Inadequate
+42181,HUMAN,Traffic Control Device Disregarded
+42182,HUMAN,Traffic Control Device Disregarded
+42183,HUMAN,Traffic Control Device Disregarded
+42184,HUMAN,Turning Improperly
+42185,HUMAN,Turning Improperly
+42186,HUMAN,Turning Improperly
+42187,HUMAN,Unsafe Lane Changing
+42188,HUMAN,Unsafe Lane Changing
+42189,HUMAN,Unsafe Lane Changing
+42190,HUMAN,Unsafe Lane Changing
+42191,HUMAN,Unsafe Lane Changing
+42192,HUMAN,Unsafe Speed
+42193,HUMAN,Unsafe Speed
+42194,HUMAN,Unsafe Speed
+42195,HUMAN,Unsafe Speed
+42196,HUMAN,Unsafe Speed
+42197,HUMAN,Unsafe Speed
+42198,ENVMT,View Obstructed/Limited
+42199,ANIMAL,Animal's Action
+42200,HUMAN,Failure to Yield Right-of-Way
+42201,HUMAN,Unsafe Lane Changing
+42202,HUMAN,Alcohol Involvement
+42203,ANIMAL,Animal's Action
+42204,HUMAN,Backing Unsafely
+42205,HUMAN,Driver Inattention/Distraction*
+42206,HUMAN,Driver Inattention/Distraction*
+42207,HUMAN,Driver Inattention/Distraction*
+42208,HUMAN,Driver Inattention/Distraction*
+42209,HUMAN,Driver Inattention/Distraction*
+42210,HUMAN,Driver Inattention/Distraction*
+42211,HUMAN,Driver Inexperience*
+42212,HUMAN,Failure to Yield Right-of-Way
+42213,HUMAN,Failure to Yield Right-of-Way
+42214,HUMAN,Failure to Yield Right-of-Way
+42215,HUMAN,Following Too Closely
+42216,HUMAN,Following Too Closely
+42217,HUMAN,Following Too Closely
+42218,HUMAN,Not Applicable
+42219,HUMAN,Not Applicable
+42220,HUMAN,Not Applicable
+42221,HUMAN,Not Applicable
+42222,HUMAN,Not Applicable
+42223,HUMAN,Not Applicable
+42224,VEHICLE,Other*
+42225,HUMAN,Passing or Lane Usage Improper
+42226,HUMAN,Passing or Lane Usage Improper
+42227,ENVMT,Pavement Slippery
+42228,ENVMT,Pavement Slippery
+42229,ENVMT,Pavement Slippery
+42230,ENVMT,Pavement Slippery
+42231,HUMAN,Traffic Control Device Disregarded
+42232,HUMAN,Traffic Control Device Disregarded
+42233,HUMAN,Turning Improperly
+42234,HUMAN,Turning Improperly
+42235,HUMAN,Turning Improperly
+42236,HUMAN,Unsafe Speed
+42237,HUMAN,Unsafe Speed
+42238,HUMAN,Unsafe Speed
+42239,ENVMT,View Obstructed/Limited
+42240,HUMAN,Unsafe Speed
+42241,HUMAN,Driver Inattention/Distraction*
+42242,HUMAN,Driver Inexperience*
+42243,HUMAN,Driver Inexperience*
+42244,HUMAN,Following Too Closely
+42245,HUMAN,Unsafe Lane Changing
+42246,HUMAN,Unsafe Speed
+42247,HUMAN,Unsafe Speed
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,view Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,view Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,view Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,view Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
+,WEATHR,View Obstructed - Rain
